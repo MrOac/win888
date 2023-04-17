@@ -1,0 +1,209 @@
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản campuchia (bitjackpot.io) (joker789.keystore)(mmh@2023)(joker789)
+	PackName	com.game.joker789
+	AppID		com.joker789.naga.lengbear
+	versionCode 	7
+	versionName 	"2.0.2"
+	OneSignal APPID: 7826bfaf-0afc-4b17-9d5a-fa21e2f493c7
+	FacebookID: 919201109283332
+	LinkAssets : res.bitjackpot.io
+	RELEASE_STORE_PASSWORD=	mmh@2023
+	RELEASE_KEY_ALIAS=	joker789
+	RELEASE_KEY_PASSWORD=	mmh@2023
+
+keytool -exportcert -alias joker789 -keystore D:\gavin1-cocos\branches\version_campuchia\build\key\joker789.keystore | openssl sha1 -binary | openssl base64
+mã Hash chính: 1xVzL4w5KTIQs1qIKr2iaEIJRSY=
+v6+JCFOETcyWwV/QPv/FQhFD62w=
+
+--------------------------------------END----------------------------------------------------------------
+
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản campuchia (bitjackpot.io)(naga777.keystore)(mmh@2023)(Nagaking777)
+	PackName	com.game.nagaking777
+	AppID		com.naga.win777.lengbear
+	versionCode 	7
+	versionName 	"2.0.2"
+	OneSignal APPID: 99d56d24-b9bd-4b95-a6b5-343de5002155
+	FacebookID: 542316351368479
+	LinkAssets : resnaga.bitjackpot.io
+	RELEASE_STORE_PASSWORD=	mmh@2023
+	RELEASE_KEY_ALIAS=	naga777
+	RELEASE_KEY_PASSWORD=	mmh@2023
+keytool -exportcert -alias naga777 -keystore D:\gavin1-cocos\branches\naga_cam\build\key\naga777.keystore | openssl sha1 -binary | openssl base64
+mã Hash chính: oiuIKw5g/dsyKACMJStj0D4DdNE=
+--------------------------------------END----------------------------------------------------------------
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản campuchia (bitjackpot.io) (win888.keystore)(mmh@2023)(win888)
+	PackName	com.game.win888
+	AppID		com.win888.lengbear.naga
+	versionCode 	7
+	versionName 	"2.0.2"
+	OneSignal APPID: 505d8d88-6c04-4da5-a5ba-058d702ad3e2
+	FacebookID: 1290083621920338
+	LinkAssets : reswin888.bitjackpot.io
+	RELEASE_STORE_PASSWORD=	mmh@2023
+	RELEASE_KEY_ALIAS=	win888
+	RELEASE_KEY_PASSWORD=	mmh@2023
+keytool -exportcert -alias win888 -keystore D:\gavin1-cocos\branches\teanglenkingdom\build\key\win888.keystore | openssl sha1 -binary | openssl base64
+mã Hash chính:f8gMmsw3nuMvNWuMbKrqKLK9ZNo=
+--------------------------------------END----------------------------------------------------------------
+
+
+
+
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản Myanmar 
+	AppID 		joker123.naga789.lengbear.club
+   	versionCode 	34
+   	versionName 	"2.3.2"
+--------------------------------------END----------------------------------------------------------------
+
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản Myanmar (skm777.com)(skm777.keystore)(mmh@2022)(skm777)
+	PackName	com.shankoemee.shweshan
+	AppID		com.shankoemee.shweshan.skm777
+	VersionCode	10
+	VersionName	2.2.0
+	FacebookID: 895341728574829
+	OneSignal APPID: a8ac17fe-7e48-48e2-8b95-a535190504a1
+	LinkAssets : res.skm777.com
+	RELEASE_STORE_PASSWORD=	mmh@2022
+	RELEASE_KEY_ALIAS=	skm777
+	RELEASE_KEY_PASSWORD=	mmh@2022
+
+keytool -exportcert -alias skm777 -keystore D:\skm777_support\joker123-client\build\key\skm777.keystore | openssl sha1 -binary | openssl base64
+mã Hash chính: hWdLnDX/fu6YrPqMEbNTzpnNuSs=
+--------------------------------------END---------------------------------------------------------------
+
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản Myanmar (skm777.com)(shweshan777.keystore)(mmh@2023)(ShweShan777)
+	PackName	com.shankoemee.shweshan777
+	AppID		com.mm.shweshan777
+	VersionCode	7
+	VersionName	2.0.2
+	FacebookID: 3270338666560832
+	OneSignal APPID: 5d6be664-14fe-405d-9204-c65f045a2b93
+	LinkAssets : resshweshan.skm777.com
+	RELEASE_STORE_PASSWORD=	mmh@2023
+	RELEASE_KEY_ALIAS=	shweshan777
+	RELEASE_KEY_PASSWORD=	mmh@2023
+keytool -exportcert -alias shweshan777 -keystore D:\gavin1-cocos\branches\version_myanmar_shweshan777\build\key\shweshan777.keystore | openssl sha1 -binary | openssl base64
+mã Hash chính: xnkKYZqV4KaLURYFTlmKwqTo6jY=
+
+--------------------------------------END----------------------------------------------------------------
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản Tiếng Việt(cb5chau.com)(cb5chau.keystore)(cb5chau)
+	PackName	com.game.cb5chau
+	AppID		cb5chau.gamebai.taixiu
+   	versionCode 	3
+   	versionName 	"2.0"
+	FacebookID: 410115034638351
+	OneSignal APPID: 691fd1f7-ae52-4f36-8a27-efe3fa7db34d
+	RELEASE_STORE_PASSWORD=	mmh@2022
+	RELEASE_KEY_ALIAS=	cb5chau
+	RELEASE_KEY_PASSWORD=	mmh@2022
+
+keytool -exportcert -alias cb5chau -keystore D:\gavin1-cocos\branches\version_theading\build\key\cb5chau.keystore | openssl sha1 -binary | openssl base64
+mã Hash chính: Pz8+Pz8/QWw/P3E/Pz9ocz8/XT8NCg==
+
+keytool -exportcert -keystore D:/gavin1-cocos/branches/version_theading/build/key/cb5chau.keystore -list -v
+--------------------------------------END----------------------------------------------------------------
+
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Game StreetFoodFrenzy
+	PackName	com.game.streetfood
+	AppID		streetfoodfrenzy.funnyc.casualgame
+   	versionCode 	5
+   	versionName 	"2.0"
+	RELEASE_STORE_PASSWORD=	mmh@2023
+	RELEASE_KEY_ALIAS=	streetfood
+	RELEASE_KEY_PASSWORD=	mmh@2023
+--------------------------------------END---------------------------------------------------------------
+
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản joker123(bản Tiếng Anh)
+	AppID		joker123.poker888.slots
+   	versionCode 	5
+   	versionName 	"2.1.1"
+--------------------------------------END---------------------------------------------------------------
+
+
+Câu lệnh Gen tệp Hotupdate.
+--------------------------------------BEGIN--------------------------------------------------------------
+node version_generator.js -v 1.0.1 -u https://res.cb5chau.com/remote-assets/ -s build/jsb-link/ -d build
+
+node version_generator.js -v 1.0.2 -u https://res.skm777.com/remote-assets/ -s build/jsb-link/ -d build
+node version_generator.js -v 1.0.2 -u https://resshweshan.skm777.com/remote-assets/ -s build/jsb-link/ -d build
+
+node version_generator.js -v 1.0.1 -u https://res.vietkieu888.com/remote-assets/ -s build/jsb-link/ -d build
+node version_generator.js -v 1.0.1 -u https://resdemo.vietkieu888.com/remote-assets/ -s build/jsb-link/ -d build
+
+node version_generator.js -v 1.0.1 -u https://res.bitjackpot.io/remote-assets/ -s build/jsb-link/ -d build
+node version_generator.js -v 1.0.1 -u https://resteanglen.bitjackpot.io/remote-assets/ -s build/jsb-link/ -d build
+node version_generator.js -v 1.0.1 -u https://resnaga.bitjackpot.io/remote-assets/ -s build/jsb-link/ -d build
+node version_generator.js -v 1.0.1 -u https://resios.bitjackpot.io/remote-assets/ -s build/jsb-link/ -d build
+node version_generator.js -v 1.0.1 -u https://reswin888.bitjackpot.io/remote-assets/ -s build/jsb-link/ -d build
+--------------------------------------END--------------------------------------------------------------
+
+
+
+Câu lệnh Gen mã Hash
+--------------------------------------BEGIN--------------------------------------------------------------
+keytool -exportcert -alias androiddebugkey -keystore C:\Users\hieunv\Desktop\apks\joker.keystore | openssl sha1 -binary | openssl base64
+keytool -exportcert -alias key0 -keystore C:\Users\hieunv\Desktop\apks\joker.keystore | openssl sha1 -binary | openssl base64
+--------------------------------------END--------------------------------------------------------------
+copy{
+         from "${sourceDir}/res"
+         into "${outputDir}/res"
+     }
+
+android:exported = "true"
+-------------------------------------------------------------
+Mã hash cho key joker.keystore NfgDlIG7XWJzUZRUL+bZySrMX1Q=
+-------------------------------------------GENETER KEYSTORE--------------------
+//**Gen Keystore
+$ keytool -genkey -v -keystore win888.keystore -alias win888 -keyalg RSA -keysize 2048 -validity 10000
+
+keytool -importkeystore -srckeystore win888.keystore -destkeystore win888.keystore -deststoretype pkcs12
+**//
+
+$ keytool -genkey -v -keystore shweshan777.keystore -storepass mmh@2022 -alias shweshan777 -keypass mmh@2022 -keyalg RSA -keysize 2048 -validity 10000
+
+//**
+Câu lệnh sinh mã SHA1 :
+	keytool -exportcert -keystore D:/gavin1-cocos/branches/teanglenkingdom/build/key/win888.keystore -list -v
+
+EX:
+	$ keytool -genkey -v -keystore streetfood.keystore -alias streetfood -keyalg RSA -keysize 2048 -validity 10000
+
+**//
+
+Acount Fabook App
+benlc@leclickgaming.com
+
+pass = Vancouver2020!
+
+--------------------------------------BEGIN--------------------------------------------------------------
+Bản campuchia (bitjackpot.io) (joker.keystore)(joker123)
+	PackName	com.game.joker123
+	AppID		joker123.tienlen.naga789.lengbear
+	versionCode 	14
+	versionName 	"2.0.7"
+	OneSignal APPID: bb9607d2-95e0-43d6-871a-bf2351cd2d9e
+	FacebookID: 5531590490301131
+	RELEASE_STORE_PASSWORD=	12345678
+	RELEASE_KEY_ALIAS=	key0
+	RELEASE_KEY_PASSWORD=	12345678
+
+keytool -exportcert -alias key0 -keystore D:\gavin1-cocos\branches\version_campuchia\build\key\joker.keystore | openssl sha1 -binary | openssl base64
+mã Hash chính: /L+zlLHXOTGoBbF8rl9/Nqj1YEY=
+--------------------------------------END----------------------------------------------------------------
