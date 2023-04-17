@@ -1,0 +1,111 @@
+
+icon_tayduky_1.png
+size: 1001,271
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1ds
+  rotate: true
+  xy: 2, 40
+  size: 229, 373
+  orig: 234, 384
+  offset: 2, 9
+  index: -1
+Clouds_03
+  rotate: true
+  xy: 846, 100
+  size: 169, 81
+  orig: 170, 83
+  offset: 0, 1
+  index: -1
+Clouds_03 copy
+  rotate: true
+  xy: 476, 155
+  size: 114, 55
+  orig: 114, 55
+  offset: 0, 0
+  index: -1
+Clouds_03 copy 2
+  rotate: false
+  xy: 870, 2
+  size: 93, 51
+  orig: 93, 51
+  offset: 0, 0
+  index: -1
+Monkeyking22
+  rotate: false
+  xy: 2, 19
+  size: 535, 19
+  orig: 535, 19
+  offset: 0, 0
+  index: -1
+bannertayduky1
+  rotate: false
+  xy: 539, 8
+  size: 329, 42
+  orig: 336, 79
+  offset: 5, 20
+  index: -1
+dai
+  rotate: false
+  xy: 377, 81
+  size: 76, 39
+  orig: 76, 39
+  offset: 0, 0
+  index: -1
+dau
+  rotate: true
+  xy: 846, 55
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+day_lon
+  rotate: false
+  xy: 456, 97
+  size: 80, 56
+  orig: 80, 56
+  offset: 0, 0
+  index: -1
+day_nho
+  rotate: false
+  xy: 930, 55
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+domdom
+  rotate: true
+  xy: 965, 77
+  size: 192, 34
+  orig: 192, 34
+  offset: 0, 0
+  index: -1
+tay_phai
+  rotate: true
+  xy: 377, 122
+  size: 75, 77
+  orig: 75, 77
+  offset: 0, 0
+  index: -1
+tay_trai
+  rotate: false
+  xy: 965, 19
+  size: 33, 56
+  orig: 33, 56
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 539, 52
+  size: 217, 305
+  orig: 228, 335
+  offset: 11, 0
+  index: -1
+vat_truoc
+  rotate: true
+  xy: 377, 199
+  size: 70, 97
+  orig: 70, 97
+  offset: 0, 0
+  index: -1

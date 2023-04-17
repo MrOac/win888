@@ -1,0 +1,41 @@
+
+icon6.png
+size: 221,81
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 9
+  rotate: true
+  xy: 76, 19
+  size: 60, 91
+  orig: 122, 91
+  offset: 35, 0
+  index: -1
+day_phai
+  rotate: false
+  xy: 169, 12
+  size: 50, 67
+  orig: 50, 67
+  offset: 0, 0
+  index: -1
+day_trai
+  rotate: true
+  xy: 2, 2
+  size: 77, 72
+  orig: 77, 72
+  offset: 0, 0
+  index: -1
+khuyen_phai
+  rotate: true
+  xy: 76, 2
+  size: 15, 44
+  orig: 15, 45
+  offset: 0, 0
+  index: -1
+khuyen_trai
+  rotate: true
+  xy: 122, 2
+  size: 15, 40
+  orig: 15, 41
+  offset: 0, 0
+  index: -1

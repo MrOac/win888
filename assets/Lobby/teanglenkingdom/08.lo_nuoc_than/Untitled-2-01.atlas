@@ -1,0 +1,132 @@
+
+Untitled-2-01.png
+size: 1708,1068
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DayDai
+  rotate: false
+  xy: 1294, 10
+  size: 156, 111
+  orig: 158, 113
+  offset: 1, 1
+  index: -1
+DayNgan
+  rotate: false
+  xy: 761, 1
+  size: 82, 94
+  orig: 84, 102
+  offset: 1, 7
+  index: -1
+KhoiDac
+  rotate: false
+  xy: 1, 3
+  size: 537, 341
+  orig: 546, 373
+  offset: 7, 16
+  index: -1
+KhoiMix
+  rotate: true
+  xy: 761, 96
+  size: 281, 276
+  orig: 289, 285
+  offset: 3, 6
+  index: -1
+KhoiNhat
+  rotate: false
+  xy: 1294, 383
+  size: 379, 296
+  orig: 384, 310
+  offset: 3, 8
+  index: -1
+NapPhaLe
+  rotate: false
+  xy: 942, 11
+  size: 59, 84
+  orig: 61, 86
+  offset: 1, 1
+  index: -1
+ThanLo
+  rotate: false
+  xy: 1038, 152
+  size: 146, 225
+  orig: 159, 230
+  offset: 1, 3
+  index: -1
+ThanLoRong
+  rotate: false
+  xy: 539, 25
+  size: 221, 319
+  orig: 225, 321
+  offset: 1, 1
+  index: -1
+XichPhai
+  rotate: true
+  xy: 844, 3
+  size: 92, 97
+  orig: 94, 99
+  offset: 1, 1
+  index: -1
+XichTrai
+  rotate: true
+  xy: 1503, 122
+  size: 102, 161
+  orig: 106, 166
+  offset: 1, 2
+  index: -1
+XoayNuoc
+  rotate: false
+  xy: 1503, 225
+  size: 161, 157
+  orig: 164, 161
+  offset: 1, 2
+  index: -1
+bangTien
+  rotate: true
+  xy: 1188, 52
+  size: 627, 105
+  orig: 629, 107
+  offset: 1, 1
+  index: -1
+bg
+  rotate: true
+  xy: 608, 378
+  size: 688, 579
+  orig: 695, 604
+  offset: 3, 13
+  index: -1
+bong
+  rotate: false
+  xy: 1294, 156
+  size: 208, 226
+  orig: 214, 234
+  offset: 3, 5
+  index: -1
+khung
+  rotate: true
+  xy: 1, 345
+  size: 721, 606
+  orig: 721, 640
+  offset: 0, 18
+  index: -1
+lo
+  rotate: false
+  xy: 1188, 938
+  size: 519, 128
+  orig: 549, 173
+  offset: 12, 23
+  index: -1
+nuoc
+  rotate: false
+  xy: 1188, 809
+  size: 519, 128
+  orig: 549, 173
+  offset: 12, 23
+  index: -1
+than
+  rotate: false
+  xy: 1188, 680
+  size: 519, 128
+  orig: 549, 173
+  offset: 12, 23
+  index: -1

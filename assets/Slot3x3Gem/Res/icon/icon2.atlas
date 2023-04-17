@@ -1,0 +1,20 @@
+
+icon2.png
+size: 189,95
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+day
+  rotate: false
+  xy: 2, 14
+  size: 124, 79
+  orig: 124, 92
+  offset: 0, 13
+  index: -1
+than
+  rotate: false
+  xy: 128, 2
+  size: 59, 91
+  orig: 61, 93
+  offset: 1, 1
+  index: -1

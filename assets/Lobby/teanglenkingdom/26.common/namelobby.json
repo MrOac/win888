@@ -1,0 +1,7022 @@
+{
+"skeleton": {
+	"hash": "vCxPvq/dbjJYsPcPMqqGi6CjAVc",
+	"spine": "3.8.75",
+	"x": -1525.44,
+	"y": -193.64,
+	"width": 2867.54,
+	"height": 440.41,
+	"images": "./images/",
+	"audio": "C:/Users/Admin/Desktop/New folder"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "Namelobby", "parent": "root", "y": -277.22 },
+	{ "name": "BGCHUNG", "parent": "Namelobby", "x": -0.54, "y": 90.13 },
+	{ "name": "6bg", "parent": "Namelobby", "x": 923.32, "y": 94.9 },
+	{ "name": "8BG", "parent": "Namelobby", "x": -308.36, "y": 111.27 },
+	{ "name": "5_0034_5bg", "parent": "Namelobby", "x": -1377.1, "y": 108.58 },
+	{ "name": "8T", "parent": "8BG", "x": -112.43, "y": 58.77 },
+	{ "name": "8A", "parent": "8BG", "x": -86.32, "y": 60.26 },
+	{ "name": "8i", "parent": "8BG", "x": -63.94, "y": 59.51 },
+	{ "name": "8x", "parent": "8BG", "x": 64.75, "y": 17.36 },
+	{ "name": "8ixiu", "parent": "8BG", "x": 86.38, "y": 18.11 },
+	{ "name": "6cua", "parent": "6bg", "x": 41.82, "y": 162.94 },
+	{ "name": "9BG", "parent": "BGCHUNG", "x": 1214.71, "y": 18.99 },
+	{ "name": "8khungtien1", "parent": "8BG", "x": 4.88, "y": 38.13, "scaleX": 1.004 },
+	{ "name": "8effect", "parent": "8BG", "x": 1.81, "y": 228 },
+	{ "name": "5_0000_5effect1", "parent": "5_0034_5bg", "x": -59.79, "y": 71.72 },
+	{ "name": "8coin5", "parent": "8BG", "x": -90.83, "y": 96.48 },
+	{ "name": "8coin3", "parent": "8BG", "x": -100.91, "y": 146.4 },
+	{ "name": "8coin4", "parent": "8BG", "x": 98.77, "y": 95.04 },
+	{ "name": "8coin6", "parent": "8BG", "x": 54.61, "y": 127.68 },
+	{ "name": "effectvolam", "parent": "5_0034_5bg", "x": -87.76, "y": 239.25 },
+	{ "name": "5_0033_5nam", "parent": "5_0034_5bg", "x": 5.98, "y": 338.88 },
+	{ "name": "8coin1", "parent": "8BG", "x": 101.65, "y": 160.32 },
+	{ "name": "12bg", "parent": "BGCHUNG", "x": 2151.95, "y": 22.71 },
+	{ "name": "5_0027_5bodynam", "parent": "5_0034_5bg", "length": 224, "rotation": 90.12, "x": 50.91, "y": -4.5 },
+	{ "name": "8XIU", "parent": "8BG", "x": 87.35, "y": 17.55, "scaleX": 0.616, "scaleY": 0.677 },
+	{ "name": "8coin2", "parent": "8BG", "x": -78.35, "y": 331.68 },
+	{ "name": "6tom", "parent": "6bg", "x": -40.18, "y": 171.76 },
+	{ "name": "6bau", "parent": "6bg", "x": 8.6, "y": 227.81 },
+	{ "name": "6namebau", "parent": "6bg", "rotation": -14.37, "x": -42.28, "y": 351.33 },
+	{ "name": "6namecua", "parent": "6bg", "x": 52.2, "y": 350.81, "scaleX": 0.8905, "scaleY": 0.8905 },
+	{ "name": "6phiaduoi", "parent": "6bg", "x": 2.38, "y": 325.38 },
+	{ "name": "8U", "parent": "8BG", "x": 107.64, "y": 19.23 },
+	{ "name": "8dice1", "parent": "8BG", "x": 65.9, "y": 281.56 },
+	{ "name": "8TAI", "parent": "8BG", "x": -88.28, "y": 60.36, "scaleX": 0.57, "scaleY": 0.62 },
+	{ "name": "13bg", "parent": "BGCHUNG", "x": 2487.68, "y": 36.58 },
+	{ "name": "5_0016_5bodynu", "parent": "5_0034_5bg", "length": 198, "rotation": 90.17, "x": -51.88, "y": -2.51 },
+	{ "name": "8dice2", "parent": "8BG", "x": -6.03, "y": 169.63 },
+	{ "name": "8dice3", "parent": "8BG", "x": -50.07, "y": 265.78 },
+	{ "name": "12bong-1", "parent": "12bg", "x": 4.98, "y": 146.4 },
+	{ "name": "5_0010_5daugirl", "parent": "5_0016_5bodynu", "length": 76, "rotation": -0.17, "x": 199.4, "y": -0.6 },
+	{ "name": "2Longvuonganhsang6", "parent": "6tom", "x": -44.5, "y": -13.91, "scaleX": 1.669, "scaleY": 1.669 },
+	{ "name": "13bong-9", "parent": "13bg", "x": -39.48, "y": 130.82 },
+	{ "name": "2Longvuonganhsang5", "parent": "6bau", "x": -19.59, "y": 43.64, "scaleX": 0.921, "scaleY": 0.921 },
+	{ "name": "2Longvuonganhsang4", "parent": "6cua", "x": 38.54, "y": 28.58 },
+	{ "name": "12bong-5", "parent": "12bg", "x": 95.94, "y": 228.02 },
+	{ "name": "13bongcam-13", "parent": "13bg", "x": -5.59, "y": 189.94 },
+	{ "name": "12bong-4", "parent": "12bg", "x": 17.44, "y": 35.51 },
+	{ "name": "12bong-3", "parent": "12bg", "x": 80.37, "y": 143.91 },
+	{ "name": "12bong-2", "parent": "12bg", "x": -72.89, "y": 136.44 },
+	{ "name": "5_0015_5ngucnu", "parent": "5_0016_5bodynu", "x": 126.35, "y": 41.85 },
+	{ "name": "5_0015_5ngucnu2", "parent": "5_0016_5bodynu", "x": 123.02, "y": -25.39 },
+	{ "name": "5_0016_5bodynu2", "parent": "5_0016_5bodynu", "length": 34, "rotation": 131.57, "x": 166.18, "y": 22.18 },
+	{ "name": "5_0015_5ngucnu3", "parent": "5_0016_5bodynu", "x": 175.08, "y": -7.17 },
+	{
+		"name": "5_0005_5tayphaitren",
+		"parent": "5_0016_5bodynu",
+		"length": 79,
+		"rotation": -171.43,
+		"x": 180.05,
+		"y": -44.33,
+		"scaleX": 1.005,
+		"scaleY": 1.005
+	},
+	{ "name": "5_0017_5aochongsaunu-", "parent": "5_0016_5bodynu", "x": 183.93, "y": -54.12 },
+	{ "name": "12khung-ten", "parent": "12bg", "x": 1.87, "y": 330.19 },
+	{ "name": "5_0013_5ngocboinu", "parent": "5_0016_5bodynu", "length": 35, "rotation": -179.55, "x": 42.6, "y": 15.91 },
+	{ "name": "5_0002_5thatlung", "parent": "5_0016_5bodynu", "x": 107.02, "y": -14.79 },
+	{ "name": "5_0018_5tayphaitrennam", "parent": "5_0027_5bodynam", "length": 102, "rotation": 160.97, "x": 192.99, "y": 33.28 },
+	{ "name": "5_0022_5daunam", "parent": "5_0027_5bodynam", "length": 70, "rotation": 0.82, "x": 221.52, "y": -16.64 },
+	{ "name": "13sieu", "parent": "13bg", "x": -51.74, "y": 279.35 },
+	{ "name": "13bong-12", "parent": "13bg", "x": 57.13, "y": 143.08 },
+	{ "name": "5_0024_5dayquannam", "parent": "5_0027_5bodynam", "length": 39, "rotation": -178.46, "x": 67.18, "y": -23.84 },
+	{ "name": "5_0025_5dayquangnam2", "parent": "5_0027_5bodynam", "length": 23, "rotation": 178.5, "x": 66.53, "y": -56.78 },
+	{ "name": "5_0027_5bodynam2", "parent": "5_0027_5bodynam", "x": 236.76, "y": -54.53 },
+	{ "name": "5_0027_5bodynam3", "parent": "5_0027_5bodynam", "x": 209.88, "y": -54.18 },
+	{ "name": "5_0027_5bodynam4", "parent": "5_0027_5bodynam", "length": 201, "rotation": 89.88, "x": 225.21, "y": -49.01 },
+	{ "name": "13bong-do", "parent": "13bg", "x": -55.34, "y": 24.11 },
+	{ "name": "5_0029_5vo", "parent": "5_0033_5nam", "x": -94.39, "y": 27.09 },
+	{ "name": "5_0030_5lam", "parent": "5_0033_5nam", "x": -9.18, "y": 23.16 },
+	{ "name": "5_0032_5truyen", "parent": "5_0033_5nam", "x": -20.1, "y": -28.4 },
+	{ "name": "5_0031_5ky", "parent": "5_0033_5nam", "x": 76.91, "y": -10.92 },
+	{ "name": "13bong-cam", "parent": "13bg", "x": 85.97, "y": 27.72 },
+	{ "name": "13lode", "parent": "13bg", "x": -53.18, "y": 333.42 },
+	{ "name": "13toc", "parent": "13bg", "x": 58.58, "y": 280.07 },
+	{ "name": "effect", "parent": "13bg", "x": 0.9, "y": -294.57 },
+	{ "name": "12tien", "parent": "12bg", "x": 36.76, "y": 272.87 },
+	{ "name": "9HOA1", "parent": "9BG", "x": -70.79, "y": 161.91 },
+	{ "name": "9HOA2", "parent": "9BG", "x": 83.15, "y": 204.31 },
+	{ "name": "9EFFECT", "parent": "9BG", "x": 58.33, "y": 30.36 },
+	{ "name": "9DIA1", "parent": "9BG", "x": 4.08, "y": 188.65 },
+	{ "name": "9NAME", "parent": "9BG", "x": 5.59, "y": 311.33 },
+	{ "name": "9dia", "parent": "9BG", "x": -33.2, "y": 208.72 },
+	{ "name": "9BG2", "parent": "9BG", "x": -4.06, "y": 28.04, "scaleX": 0.97 },
+	{ "name": "5_0007_5maitroctrai", "parent": "5_0010_5daugirl", "x": 57.08, "y": 21.07 },
+	{ "name": "5_0012_5tocsaunu", "parent": "5_0010_5daugirl", "length": 31, "rotation": -169.49, "x": 19.28, "y": 19.49 },
+	{ "name": "5_0003_5thatlung1", "parent": "5_0002_5thatlung", "length": 45, "rotation": 166.87, "x": -9.76, "y": 4.72 },
+	{ "name": "5_0019_5tocmaitrai", "parent": "5_0022_5daunam", "x": 60.06, "y": -3.59 },
+	{ "name": "9EFFECT2", "parent": "9dia", "x": 31.95, "y": 62.23 },
+	{ "name": "5_0025_5dayquangnam3", "parent": "5_0025_5dayquangnam2", "length": 39, "rotation": 1.38, "x": 23.99 },
+	{ "name": "5_0006_5maitoctren", "parent": "5_0010_5daugirl", "x": 60.86, "y": 14.77 },
+	{ "name": "9Ngoc5", "parent": "9DIA1", "x": 29.03, "y": 3.06 },
+	{ "name": "9namxoc", "parent": "9NAME", "x": -44.28, "y": -2.03 },
+	{ "name": "9namdia", "parent": "9NAME", "x": 62.92, "y": 4.56 },
+	{ "name": "9xingau", "parent": "9NAME", "x": -76.05, "y": -27.38 },
+	{ "name": "5_0014_5nutoc", "parent": "5_0010_5daugirl", "x": 76.93, "y": -16.1 },
+	{ "name": "5_0017_5aochongsaunu-2", "parent": "5_0017_5aochongsaunu-", "length": 93, "rotation": -164.85, "x": -14.87, "y": -5.04 },
+	{ "name": "5_0004_5thatlung2", "parent": "5_0002_5thatlung", "length": 27, "rotation": 179.83, "x": -13.69, "y": -0.74 },
+	{ "name": "5_0009_5girlmat1", "parent": "5_0010_5daugirl", "x": 29.96, "y": 14.5 },
+	{ "name": "9Ngoc3", "parent": "9DIA1", "x": -17.19, "y": -1.91 },
+	{ "name": "5_0011_5daycottocnu", "parent": "5_0010_5daugirl", "length": 19, "rotation": -148.84, "x": 73.84, "y": -21.89 },
+	{ "name": "9Ngoc2", "parent": "9DIA1", "x": 4.97, "y": -16.04 },
+	{ "name": "9ngoc1", "parent": "9DIA1", "x": 8.79, "y": 12.61 },
+	{ "name": "5_0020_5tocmaiphai", "parent": "5_0022_5daunam", "x": 57.24, "y": -16.84 },
+	{ "name": "5_0024_5dayquannam2", "parent": "5_0024_5dayquannam", "length": 28, "rotation": -5.75, "x": 39.33, "y": 0.31 },
+	{ "name": "5_0023_5duoitocnam", "parent": "5_0022_5daunam", "length": 18, "rotation": 53.84, "x": 76.55, "y": 14.93 },
+	{ "name": "5_0021_5matnhamnam", "parent": "5_0022_5daunam", "x": 32.21, "y": -10.07 },
+	{ "name": "9EFFECT3", "parent": "9DIA1", "x": -32.85, "y": -45.84 },
+	{ "name": "5_0005_5tayphaitren2", "parent": "5_0005_5tayphaitren", "length": 102, "rotation": -0.13, "x": 79.75, "y": 0.08 },
+	{ "name": "12de", "parent": "12khung-ten", "x": 56.07, "y": 26.17 },
+	{ "name": "12lo", "parent": "12khung-ten", "x": 0.72, "y": -11.96 },
+	{ "name": "5_0023_5duoitocnam2", "parent": "5_0023_5duoitocnam", "length": 26, "rotation": 82.01, "x": 18.04 },
+	{
+		"name": "5_0017_5aochongsaunu-3",
+		"parent": "5_0017_5aochongsaunu-2",
+		"length": 78,
+		"rotation": 8.07,
+		"x": 96.4,
+		"y": 1.16,
+		"scaleX": 1.034
+	},
+	{ "name": "5_0006_5maitoctren2", "parent": "5_0006_5maitoctren", "length": 23, "rotation": -146.09, "x": -0.63, "y": -12.91 },
+	{ "name": "5_0020_5tocmaiphai2", "parent": "5_0020_5tocmaiphai", "length": 19, "rotation": -159.78, "x": 1.61, "y": -7.83 },
+	{ "name": "5_0007_5maitroctrai2", "parent": "5_0007_5maitroctrai", "length": 29, "rotation": 179.38, "x": -3.15, "y": 10.08 },
+	{ "name": "5_0019_5tocmaitrai2", "parent": "5_0019_5tocmaitrai", "length": 24, "rotation": 147.27, "x": 3.03, "y": 8.33 },
+	{ "name": "5_0011_5daycottocnu2", "parent": "5_0011_5daycottocnu", "length": 28, "rotation": 8.35, "x": 19.65 },
+	{ "name": "5_0014_5nutoc2", "parent": "5_0014_5nutoc", "length": 12, "rotation": -63.43, "x": 8.51, "y": -4.72 },
+	{ "name": "5_0019_5tocmaitrai3", "parent": "5_0019_5tocmaitrai2", "length": 34, "rotation": 8.4, "x": 24.14 },
+	{ "name": "5_0014_5nutoc3", "parent": "5_0014_5nutoc2", "length": 28, "rotation": -82.52, "x": 13.52, "y": -1.13 },
+	{ "name": "5_0020_5tocmaiphai3", "parent": "5_0020_5tocmaiphai2", "length": 25, "rotation": -39.39, "x": 19.21 },
+	{ "name": "5_0007_5maitroctrai3", "parent": "5_0007_5maitroctrai2", "length": 28, "rotation": 30.28, "x": 31.5, "y": -0.29 },
+	{ "name": "5_0023_5duoitocnam3", "parent": "5_0023_5duoitocnam2", "length": 50, "rotation": 7.98, "x": 26.17 },
+	{ "name": "5_0006_5maitoctren3", "parent": "5_0006_5maitoctren2", "length": 26, "rotation": 3.79, "x": 23.15 },
+	{ "name": "5_0014_5nutoc4", "parent": "5_0014_5nutoc3", "length": 30, "rotation": -0.52, "x": 28.13 },
+	{ "name": "5_0014_5nutoc5", "parent": "5_0014_5nutoc4", "length": 34, "rotation": 16.74, "x": 31.54, "y": 0.27 }
+],
+"slots": [
+	{ "name": "Layer 13", "bone": "root" },
+	{ "name": "BGCHUNG", "bone": "BGCHUNG", "attachment": "BGCHUNG" },
+	{ "name": "6bg", "bone": "6bg", "attachment": "6bg" },
+	{ "name": "6bau", "bone": "6bau", "attachment": "6bau" },
+	{ "name": "6cua", "bone": "6cua", "attachment": "6cua" },
+	{ "name": "6tom", "bone": "6tom", "attachment": "6tom" },
+	{ "name": "6phiaduoi", "bone": "6phiaduoi", "attachment": "6phiaduoi" },
+	{ "name": "6namecua", "bone": "6namecua" },
+	{ "name": "6namebau", "bone": "6namebau" },
+	{ "name": "6namebau2", "bone": "6namebau", "attachment": "6namebau" },
+	{ "name": "2Longvuonganhsang4", "bone": "2Longvuonganhsang4", "attachment": "2Longvuonganhsang", "blend": "additive" },
+	{ "name": "2Longvuonganhsang5", "bone": "2Longvuonganhsang5", "attachment": "2Longvuonganhsang", "blend": "additive" },
+	{ "name": "2Longvuonganhsang6", "bone": "2Longvuonganhsang6", "attachment": "2Longvuonganhsang", "blend": "additive" },
+	{ "name": "5_0034_5bg", "bone": "5_0034_5bg", "attachment": "5_0034_5bg" },
+	{ "name": "fx1/f1", "bone": "effectvolam" },
+	{ "name": "5_0033_5nam", "bone": "5_0033_5nam", "attachment": "5_0033_5nam" },
+	{ "name": "5_0029_5vo", "bone": "5_0029_5vo", "attachment": "5_0029_5vo" },
+	{ "name": "5_0030_5lam", "bone": "5_0030_5lam", "attachment": "5_0030_5lam" },
+	{ "name": "5_0032_5truyen", "bone": "5_0032_5truyen", "attachment": "5_0032_5truyen" },
+	{ "name": "5_0031_5ky", "bone": "5_0031_5ky", "attachment": "5_0031_5ky" },
+	{ "name": "5_0028_5kiemnam", "bone": "5_0034_5bg", "attachment": "5_0028_5kiemnam" },
+	{ "name": "5_0023_5duoitocnam", "bone": "5_0023_5duoitocnam", "attachment": "5_0023_5duoitocnam" },
+	{ "name": "5_0027_5bodynam", "bone": "5_0027_5bodynam", "attachment": "5_0027_5bodynam" },
+	{ "name": "5_0018_5tayphaitrennam", "bone": "5_0018_5tayphaitrennam", "attachment": "5_0018_5tayphaitrennam" },
+	{ "name": "5_0022_5daunam", "bone": "5_0022_5daunam", "attachment": "5_0022_5daunam" },
+	{ "name": "5_0024_5dayquannam", "bone": "5_0024_5dayquannam", "attachment": "5_0024_5dayquannam" },
+	{ "name": "5_0026_5dayvainam", "bone": "5_0034_5bg", "attachment": "5_0026_5dayvainam" },
+	{ "name": "5_0025_5dayquangnam2", "bone": "5_0025_5dayquangnam2", "attachment": "5_0025_5dayquangnam2" },
+	{ "name": "5_0021_5matnhamnam", "bone": "5_0021_5matnhamnam", "attachment": "5_0021_5matnhamnam" },
+	{ "name": "5_0019_5tocmaitrai", "bone": "5_0019_5tocmaitrai", "attachment": "5_0019_5tocmaitrai" },
+	{ "name": "5_0017_5aochongsaunu-", "bone": "5_0017_5aochongsaunu-", "attachment": "5_0017_5aochongsaunu-" },
+	{ "name": "5_0016_5bodynu", "bone": "5_0016_5bodynu", "attachment": "5_0016_5bodynu" },
+	{ "name": "5_0014_5nutoc", "bone": "5_0014_5nutoc", "attachment": "5_0014_5nutoc" },
+	{ "name": "5_0012_5tocsaunu", "bone": "5_0012_5tocsaunu", "attachment": "5_0012_5tocsaunu" },
+	{ "name": "5_0010_5daugirl", "bone": "5_0010_5daugirl", "attachment": "5_0010_5daugirl" },
+	{ "name": "5_0009_5girlmat1", "bone": "5_0009_5girlmat1" },
+	{ "name": "5_0008_5girlmat2", "bone": "5_0009_5girlmat1" },
+	{ "name": "5_0007_5maitroctrai", "bone": "5_0007_5maitroctrai", "attachment": "5_0007_5maitroctrai" },
+	{ "name": "5_0006_5maitoctren", "bone": "5_0006_5maitoctren", "attachment": "5_0006_5maitoctren" },
+	{ "name": "5_0011_5daycottocnu", "bone": "5_0011_5daycottocnu", "attachment": "5_0011_5daycottocnu" },
+	{ "name": "5_0013_5ngocboinu", "bone": "5_0013_5ngocboinu", "attachment": "5_0013_5ngocboinu" },
+	{ "name": "5_0004_5thatlung2", "bone": "5_0004_5thatlung2", "attachment": "5_0004_5thatlung2" },
+	{ "name": "5_0002_5thatlung", "bone": "5_0002_5thatlung", "attachment": "5_0002_5thatlung" },
+	{ "name": "5_0003_5thatlung1", "bone": "5_0003_5thatlung1", "attachment": "5_0003_5thatlung1" },
+	{ "name": "5_0005_5tayphaitren", "bone": "5_0005_5tayphaitren", "attachment": "5_0005_5tayphaitren" },
+	{ "name": "5_0015_5ngucnu", "bone": "5_0015_5ngucnu3", "attachment": "5_0015_5ngucnu" },
+	{ "name": "5_0000_5effect1", "bone": "5_0000_5effect1", "attachment": "5_0000_5effect1" },
+	{ "name": "5_0001_5effect2", "bone": "5_0034_5bg", "attachment": "5_0001_5effect2" },
+	{ "name": "5_0020_5tocmaiphai", "bone": "5_0020_5tocmaiphai", "attachment": "5_0020_5tocmaiphai" },
+	{ "name": "8BG", "bone": "8BG", "attachment": "8BG" },
+	{ "name": "8coin6", "bone": "8coin6", "attachment": "8coin6" },
+	{ "name": "8coin5", "bone": "8coin5", "attachment": "8coin5" },
+	{ "name": "8coin1", "bone": "8coin1", "attachment": "8coin1" },
+	{ "name": "8coin2", "bone": "8coin2", "attachment": "8coin2" },
+	{ "name": "8coin3", "bone": "8coin3", "attachment": "8coin3" },
+	{ "name": "8coin4", "bone": "8coin4", "attachment": "8coin4" },
+	{ "name": "8effect", "bone": "8effect", "attachment": "8effect" },
+	{ "name": "8dice2", "bone": "8dice2", "attachment": "8dice2" },
+	{ "name": "8dice1", "bone": "8dice1", "attachment": "8dice1" },
+	{ "name": "8dice3", "bone": "8dice3", "attachment": "8dice3" },
+	{ "name": "8khungtien1", "bone": "8khungtien1" },
+	{ "name": "8khungsotienmoi", "bone": "8khungtien1", "attachment": "8khungsotienmoi" },
+	{ "name": "8sotienmoi", "bone": "8BG", "attachment": "8sotienmoi" },
+	{ "name": "8sotienmoi2", "bone": "8BG", "attachment": "8sotienmoi" },
+	{ "name": "8TAI", "bone": "8TAI" },
+	{ "name": "8XIU", "bone": "8XIU" },
+	{ "name": "9BG", "bone": "9BG", "attachment": "9BG" },
+	{ "name": "9HOA1", "bone": "9HOA1", "attachment": "9HOA1" },
+	{ "name": "9HOA2", "bone": "9HOA2", "attachment": "9HOA2" },
+	{ "name": "9DIA1", "bone": "9DIA1", "attachment": "9DIA1" },
+	{ "name": "9Ngoc2", "bone": "9Ngoc2", "attachment": "9Ngoc2" },
+	{ "name": "9Ngoc3", "bone": "9Ngoc3", "attachment": "9Ngoc3" },
+	{ "name": "9Ngoc5", "bone": "9Ngoc5", "attachment": "9Ngoc5" },
+	{ "name": "9ngoc1", "bone": "9ngoc1", "attachment": "9ngoc1" },
+	{ "name": "9dia", "bone": "9dia", "attachment": "9dia" },
+	{ "name": "9EFFECT", "bone": "9EFFECT", "attachment": "9EFFECT", "blend": "additive" },
+	{ "name": "9EFFECT3", "bone": "9EFFECT3", "attachment": "9EFFECT", "blend": "additive" },
+	{ "name": "9EFFECT2", "bone": "9EFFECT2", "attachment": "9EFFECT", "blend": "additive" },
+	{ "name": "9NAME", "bone": "9NAME", "attachment": "9NAME" },
+	{ "name": "9xingau", "bone": "9xingau", "attachment": "9xingau" },
+	{ "name": "9namxoc", "bone": "9namxoc", "attachment": "9namxoc" },
+	{ "name": "9namdia", "bone": "9namdia", "attachment": "9namdia" },
+	{ "name": "numberchung2", "bone": "root" },
+	{ "name": "numberchung", "bone": "root" },
+	{ "name": "6khungtext", "bone": "6bg" },
+	{ "name": "8T", "bone": "8T" },
+	{ "name": "8A", "bone": "8A", "attachment": "8A" },
+	{ "name": "8i", "bone": "8i" },
+	{ "name": "8ixiu", "bone": "8ixiu", "attachment": "8ixiu" },
+	{ "name": "8x", "bone": "8x" },
+	{ "name": "8U", "bone": "8U" },
+	{ "name": "Khung Tien-JP copy", "bone": "8BG", "attachment": "Khung Tien-JP copy" },
+	{ "name": "9textxocdia", "bone": "9BG2" },
+	{ "name": "12bg", "bone": "12bg" },
+	{ "name": "12tien", "bone": "12tien" },
+	{ "name": "12khung-ten", "bone": "12khung-ten" },
+	{ "name": "12lo", "bone": "12lo" },
+	{ "name": "12de", "bone": "12de" },
+	{ "name": "12bong-5", "bone": "12bong-5" },
+	{ "name": "12bong-4", "bone": "12bong-4" },
+	{ "name": "12bong-2", "bone": "12bong-2" },
+	{ "name": "12bong-3", "bone": "12bong-3" },
+	{ "name": "12bong-1", "bone": "12bong-1" },
+	{ "name": "13bg", "bone": "13bg" },
+	{ "name": "13khungtenn", "bone": "13bg" },
+	{ "name": "13lode", "bone": "13lode" },
+	{ "name": "13sieu", "bone": "13sieu" },
+	{ "name": "13toc", "bone": "13toc" },
+	{ "name": "13bongcam-13", "bone": "13bongcam-13" },
+	{ "name": "13bong-12", "bone": "13bong-12" },
+	{ "name": "13bong-do", "bone": "13bong-do" },
+	{ "name": "13bong-cam", "bone": "13bong-cam" },
+	{ "name": "effect 1/f1", "bone": "effect" },
+	{ "name": "13bong-9", "bone": "13bong-9" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"5_0006_5maitoctren": {
+				"5_0006_5maitoctren": {
+					"type": "mesh",
+					"uvs": [ 0.39659, 1, 0.24594, 0.82093, 0.28702, 0.56053, 0.21854, 0.36733, 0.05876, 0.24554, 0, 0.25394, 0, 0, 0.28246, 0, 0.48333, 0.14054, 0.6705, 0.44713, 1, 0.61933, 1, 0.90493, 0.81659, 1 ],
+					"triangles": [ 6, 4, 7, 6, 5, 4, 8, 3, 9, 7, 3, 8, 4, 3, 7, 12, 11, 10, 9, 12, 10, 1, 0, 9, 2, 1, 9, 9, 0, 12, 3, 2, 9 ],
+					"vertices": [ 1, 125, 35.72, -28.8, 1, 1, 125, 18.74, -28.81, 1, 2, 125, 5.02, -14.63, 0.91961, 114, 29.13, -14.26, 0.08039, 3, 125, -9.34, -9.5, 0.07317, 114, 14.45, -10.1, 0.88479, 91, -18.26, -12.59, 0.04204, 2, 114, 0.74, -14.16, 0.31444, 91, -9.14, -1.57, 0.68556, 2, 114, -1, -17.87, 0.15866, 91, -9.77, 2.48, 0.84134, 2, 114, -16.81, -7.24, 0.04828, 91, 9.28, 2.48, 0.95172, 2, 114, -5.94, 8.93, 0.94391, 91, 9.28, -17.01, 0.05609, 2, 125, -11.62, 15.35, 0.07161, 114, 10.54, 14.55, 0.92839, 2, 125, 14.47, 11.51, 0.99726, 114, 36.83, 12.44, 0.00274, 1, 125, 38.59, 21.6, 1, 1, 125, 55.54, 8.51, 1, 1, 125, 53.44, -5.87, 1 ],
+					"hull": 13,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 0 ],
+					"width": 69,
+					"height": 75
+				}
+			},
+			"5_0011_5daycottocnu": {
+				"5_0011_5daycottocnu": {
+					"type": "mesh",
+					"uvs": [ 0.37864, 0.98436, 0.00542, 0.65023, 0, 0, 0.26312, 0, 0.65412, 0.40781, 1, 0.81445, 1, 1 ],
+					"triangles": [ 0, 6, 5, 4, 0, 5, 1, 0, 4, 3, 1, 4, 2, 1, 3 ],
+					"vertices": [ 2, 101, 43.86, -11.9, 5.6E-4, 118, 22.23, -15.29, 0.99944, 2, 101, 19.59, -18.24, 0.59204, 118, -2.71, -18.03, 0.40796, 1, 101, -8.36, -1.62, 1, 1, 101, -2.37, 8.29, 1, 2, 101, 23.99, 12.46, 0.22868, 118, 6.1, 11.7, 0.77132, 1, 118, 31.47, 10.5, 1, 1, 118, 38.62, 4.61, 1 ],
+					"hull": 7,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 0 ],
+					"width": 44,
+					"height": 50
+				}
+			},
+			"8U": {
+				"8U": { "x": 1.18, "y": -3.18, "width": 27, "height": 38 }
+			},
+			"9EFFECT": {
+				"9EFFECT": { "x": 1.2, "y": 0.54, "width": 71, "height": 71 }
+			},
+			"9DIA1": {
+				"9DIA1": { "x": 5.59, "y": -5.38, "scaleX": 1.0087, "scaleY": 1.058, "width": 136, "height": 94 }
+			},
+			"9HOA1": {
+				"9HOA1": { "x": 10.63, "y": 18.68, "width": 95, "height": 108 }
+			},
+			"9HOA2": {
+				"9HOA2": { "x": -3.66, "y": -6.03, "width": 77, "height": 77 }
+			},
+			"5_0026_5dayvainam": {
+				"5_0026_5dayvainam": { "x": 96.13, "y": 24.72, "width": 23, "height": 60 }
+			},
+			"9textxocdia": {
+				"9textxocdia": { "x": 5.99, "y": -5.99, "width": 216, "height": 36 }
+			},
+			"8T": {
+				"8T": { "x": 3.27, "y": -0.6, "width": 33, "height": 40 }
+			},
+			"6namebau2": {
+				"6namebau": {
+					"x": 39.42,
+					"y": 24.55,
+					"scaleX": 0.8758,
+					"scaleY": 0.8758,
+					"rotation": 13.62,
+					"width": 209,
+					"height": 86
+				}
+			},
+			"5_0017_5aochongsaunu-": {
+				"5_0017_5aochongsaunu-": {
+					"type": "mesh",
+					"uvs": [ 0.01572, 1, 0, 0.68484, 0, 0.01748, 0.45735, 0, 0.52487, 0, 0.64864, 0.24881, 0.92712, 0.82814, 1, 1 ],
+					"triangles": [ 6, 0, 7, 3, 2, 5, 4, 3, 5, 5, 1, 6, 1, 0, 6, 2, 1, 5 ],
+					"vertices": [ 3, 97, 147.39, -109.22, 0.85876, 55, -185.68, 61.87, 1.7E-4, 113, 33.83, -116.44, 0.14107, 3, 97, 88.56, -95.46, 0.94112, 55, -125.3, 63.96, 0.02898, 113, -20.62, -94.56, 0.0299, 2, 97, -34.36, -61.78, 0.27343, 55, 2.15, 63.57, 0.72657, 2, 97, -20.77, 0.42, 0.00109, 55, 5.29, -0.02, 0.99891, 2, 97, -18.3, 9.47, 0.13852, 55, 5.27, -9.4, 0.86148, 2, 97, 32.07, 13.51, 0.99849, 113, -59.92, 21.26, 0.00151, 1, 113, 54.98, 12.86, 1, 1, 113, 89.13, 9.13, 1 ],
+					"hull": 8,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 0 ],
+					"width": 139,
+					"height": 191
+				}
+			},
+			"6bau": {
+				"6bau": { "x": 28.23, "y": 22.56, "width": 116, "height": 118 }
+			},
+			"13khungtenn": {
+				"13khungtenn": { "x": -8.14, "y": 302.66, "width": 305, "height": 171 }
+			},
+			"BGCHUNG": {
+				"BGCHUNG": { "x": -0.54, "y": 186.45, "width": 234, "height": 386 }
+			},
+			"12bg": {
+				"12bg": { "x": 0.55, "y": 171.01, "width": 218, "height": 359 }
+			},
+			"5_0032_5truyen": {
+				"5_0032_5truyen": { "x": -7.12, "y": -7.03, "width": 137, "height": 82 }
+			},
+			"2Longvuonganhsang4": {
+				"2Longvuonganhsang": { "x": -33.64, "y": -29.63, "width": 43, "height": 41 }
+			},
+			"8i": {
+				"8i": { "x": -0.69, "y": -1.77, "width": 16, "height": 40 }
+			},
+			"5_0015_5ngucnu": {
+				"5_0015_5ngucnu": {
+					"type": "mesh",
+					"uvs": [ 0.02808, 1, 0, 0.73808, 0, 0.37913, 0.21025, 0.04582, 0.28579, 0, 0.77009, 0, 0.93894, 0.28298, 1, 0.57783, 1, 1, 0.73455, 1, 0.41464, 0.93037, 0.13916, 1 ],
+					"triangles": [ 9, 8, 7, 6, 9, 7, 10, 9, 6, 5, 10, 6, 4, 10, 5, 2, 1, 10, 3, 2, 10, 4, 3, 10, 1, 11, 10, 1, 0, 11 ],
+					"vertices": [ 2, 50, -9.3, 8.63, 0.99965, 52, 53.77, 17.98, 3.5E-4, 2, 50, 6.68, 11.06, 0.53303, 52, 44.98, 4.42, 0.46697, 1, 52, 30.4, -11.93, 1, 1, 52, 3.07, -14.78, 1, 2, 52, -3.76, -12.44, 0.99424, 53, 2.9, 34.79, 0.00576, 2, 53, 2.77, -7.83, 0.9726, 51, 54.83, 10.39, 0.0274, 2, 53, -14.54, -22.63, 0.63444, 51, 37.52, -4.41, 0.36556, 3, 50, 16.19, -76.97, 3.0E-5, 53, -32.54, -27.95, 0.28068, 51, 19.52, -9.73, 0.71929, 1, 51, -6.23, -9.66, 1, 4, 50, -9.49, -53.54, 0.08323, 52, 7.39, 59.37, 0.04696, 53, -58.22, -4.52, 0.02596, 51, -6.16, 13.7, 0.84385, 4, 50, -5.16, -25.4, 0.52342, 52, 25.57, 37.46, 0.18288, 53, -53.89, 23.62, 0.0371, 51, -1.83, 41.84, 0.2566, 3, 50, -9.33, -1.14, 0.9936, 53, -58.06, 47.88, 1.1E-4, 51, -6, 66.1, 0.00629 ],
+					"hull": 12,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 0 ],
+					"width": 88,
+					"height": 61
+				}
+			},
+			"8dice2": {
+				"8dice2": { "x": 1.35, "y": -3.36, "width": 131, "height": 130 }
+			},
+			"8dice3": {
+				"8dice3": { "x": 2.72, "y": -6.14, "width": 89, "height": 81 }
+			},
+			"5_0009_5girlmat1": {
+				"5_0009_5girlmat1": { "x": 1.33, "y": -4.28, "rotation": -90, "width": 36, "height": 14 }
+			},
+			"6cua": {
+				"6cua": { "x": -31.58, "y": -30.34, "rotation": -39.15, "width": 111, "height": 113 }
+			},
+			"9BG": {
+				"9BG": { "x": 1.5, "y": 165.45, "scaleX": 1.0227, "scaleY": 0.9924, "width": 217, "height": 345 }
+			},
+			"8x": {
+				"8x": { "x": 1.13, "y": -0.26, "width": 30, "height": 44 }
+			},
+			"9NAME": {
+				"9NAME": { "x": -6.16, "y": 12.98, "width": 257, "height": 82 }
+			},
+			"5_0003_5thatlung1": {
+				"5_0003_5thatlung1": { "x": 25.22, "y": -0.7, "rotation": 102.96, "width": 19, "height": 66 }
+			},
+			"13bong-12": {
+				"13bong-12": { "x": 0.44, "y": -11.24, "width": 102, "height": 103 }
+			},
+			"8A": {
+				"8A": { "x": -2.7, "y": -1.73, "width": 109, "height": 68 }
+			},
+			"12bong-1": {
+				"12bong-1": { "x": 4.26, "y": 20.21, "width": 144, "height": 187 }
+			},
+			"12bong-2": {
+				"12bong-2": { "x": 0.89, "y": -0.7, "width": 96, "height": 111 }
+			},
+			"12bong-3": {
+				"12bong-3": { "x": 4.29, "y": -0.69, "width": 47, "height": 56 }
+			},
+			"12bong-4": {
+				"12bong-4": { "x": -0.07, "y": -7.03, "width": 71, "height": 63 }
+			},
+			"12bong-5": {
+				"12bong-5": { "x": 4.3, "y": 0.34, "width": 36, "height": 38 }
+			},
+			"5_0021_5matnhamnam": {
+				"5_0021_5matnhamnam": { "x": 0.9, "y": 4.69, "rotation": -90.94, "width": 34, "height": 11 }
+			},
+			"5_0023_5duoitocnam": {
+				"5_0023_5duoitocnam": {
+					"type": "mesh",
+					"uvs": [ 0.34253, 1, 0.36318, 0.82524, 0.63497, 0.72071, 0.81044, 0.52394, 0.87925, 0.28413, 1, 0.27798, 1, 0.0474, 0.91709, 0, 0.59025, 0, 0.44231, 0.12426, 0.30813, 0.28413, 0.00881, 0.42248, 0, 0.60695, 0, 0.84676, 0.09482, 0.98511, 0.33565, 1 ],
+					"triangles": [ 7, 4, 6, 6, 4, 5, 8, 4, 7, 9, 3, 4, 8, 9, 4, 9, 10, 3, 10, 2, 3, 10, 1, 2, 10, 12, 1, 11, 12, 10, 14, 15, 1, 13, 14, 1, 15, 0, 1, 12, 13, 1 ],
+					"vertices": [ 1, 124, 64.76, 23.45, 1, 2, 124, 50.34, 15.39, 0.9998, 112, 73.89, 22.23, 2.0E-4, 3, 124, 29.14, 28.37, 0.92863, 112, 51.09, 32.14, 0.06789, 106, -6.69, 55.06, 0.00348, 3, 124, 5.53, 29.73, 0.54144, 112, 27.52, 30.21, 0.37448, 106, -8.05, 31.45, 0.08409, 3, 124, -16.21, 21.45, 0.02378, 112, 7.14, 19, 0.27957, 106, 0.22, 9.71, 0.69665, 3, 124, -22.53, 29.39, 2.0E-5, 112, -0.22, 25.98, 0.00996, 106, -7.72, 3.39, 0.99003, 1, 106, 4.77, -14.32, 1, 2, 112, -14.51, 3.02, 1.4E-4, 106, 13.03, -13.95, 0.99986, 3, 124, -24.02, -13.78, 3.6E-4, 112, 4.29, -16.98, 0.99457, 106, 35.45, 1.89, 0.00507, 2, 124, -7.31, -17.19, 0.23682, 112, 21.32, -18.04, 0.76318, 2, 124, 11.46, -17.73, 0.96643, 112, 39.98, -15.97, 0.03357, 1, 124, 36.59, -30.77, 1, 1, 124, 51.18, -21.37, 1, 1, 124, 69.59, -8.36, 1, 1, 124, 75.62, 5.65, 1, 1, 124, 65.09, 22.98, 1 ],
+					"hull": 16,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 28, 28, 30, 30, 0 ],
+					"width": 84,
+					"height": 94
+				}
+			},
+			"8sotienmoi": {
+				"8sotienmoi": { "x": 28.96, "y": 58, "width": 154, "height": 15 }
+			},
+			"effect 1/f1": {
+				"effect 1/f1": { "x": -42.61, "y": 416.02, "rotation": 0.07, "width": 110, "height": 147 },
+				"effect 1/f2": { "x": -42.61, "y": 416.02, "width": 137, "height": 136 },
+				"effect 1/f3": { "x": -42.61, "y": 416.02, "width": 130, "height": 124 },
+				"effect 1/f4": { "x": -42.61, "y": 416.02, "width": 132, "height": 136 },
+				"effect 1/f5": { "x": -42.61, "y": 416.02, "width": 114, "height": 146 }
+			},
+			"5_0030_5lam": {
+				"5_0030_5lam": { "x": 3.94, "y": 10.79, "width": 103, "height": 55 }
+			},
+			"6tom": {
+				"6tom": {
+					"x": 5.05,
+					"y": 22.34,
+					"scaleX": 1.011,
+					"scaleY": 1.011,
+					"rotation": 15.45,
+					"width": 116,
+					"height": 118
+				}
+			},
+			"5_0000_5effect1": {
+				"5_0000_5effect1": { "x": 89.69, "y": 19.65, "width": 309, "height": 197 }
+			},
+			"12de": {
+				"12de": { "x": -0.41, "y": -2.37, "width": 112, "height": 106 }
+			},
+			"12lo": {
+				"12lo": { "x": -3.87, "y": 24.67, "width": 233, "height": 89 }
+			},
+			"13lode": {
+				"13lode": { "x": 2.4, "y": 3.68, "width": 114, "height": 49 }
+			},
+			"9EFFECT2": {
+				"9EFFECT": { "x": 1.2, "y": 0.54, "width": 71, "height": 71 }
+			},
+			"9EFFECT3": {
+				"9EFFECT": { "x": 1.2, "y": 0.54, "width": 71, "height": 71 }
+			},
+			"13bong-cam": {
+				"13bong-cam": { "x": -20.65, "y": 4.01, "width": 86, "height": 112 }
+			},
+			"9namxoc": {
+				"9namxoc": { "x": -7.08, "y": 13.59, "scaleX": 0.9213, "scaleY": 0.9213, "width": 135, "height": 55 }
+			},
+			"Layer 13": {
+				"Layer 13": { "x": -0.1, "y": 224.05, "width": 257, "height": 449 }
+			},
+			"numberchung2": {
+				"numberchung2": { "x": -0.1, "y": 110.91, "rotation": 0.05, "width": 221, "height": 108 }
+			},
+			"5_0031_5ky": {
+				"5_0031_5ky": { "x": -0.4, "y": -1.84, "width": 60, "height": 98 }
+			},
+			"5_0025_5dayquangnam2": {
+				"5_0025_5dayquangnam2": {
+					"type": "mesh",
+					"uvs": [ 0.0373, 0.23587, 0.6493, 0, 1, 0, 1, 1, 0.3943, 1, 0.4283, 0.34424, 0, 0.46867 ],
+					"triangles": [ 5, 4, 3, 0, 5, 1, 1, 5, 2, 2, 5, 3, 0, 6, 5 ],
+					"vertices": [ 1, 64, 12.74, -12.7, 1, 1, 64, -4.49, -2.71, 1, 1, 64, -4.64, 3.25, 1, 1, 90, 43.46, 3.94, 1, 1, 90, 43.46, -6.36, 1, 2, 64, 20.38, -5.87, 0.96673, 90, -3.75, -5.78, 0.03327, 1, 64, 29.51, -12.93, 1 ],
+					"hull": 7,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 0 ],
+					"width": 17,
+					"height": 72
+				}
+			},
+			"5_0008_5girlmat2": {
+				"5_0008_5girlmat2": { "x": 1.97, "y": -3.69, "rotation": -90, "width": 35, "height": 14 }
+			},
+			"8khungtien1": {
+				"8khungtien1": { "x": -3.93, "y": -2.27, "scaleX": 1.045, "width": 209, "height": 73 }
+			},
+			"8sotienmoi2": {
+				"8sotienmoi": { "x": -26.99, "y": 15.59, "width": 154, "height": 15 }
+			},
+			"fx1/f1": {
+				"fx1/f1": { "x": -0.83, "y": 40.47, "width": 58, "height": 99 },
+				"fx1/f2": { "x": -0.83, "y": 40.47, "width": 58, "height": 97 },
+				"fx1/f3": { "x": -0.83, "y": 40.47, "width": 70, "height": 150 },
+				"fx1/f4": { "x": -0.83, "y": 40.47, "width": 86, "height": 151 },
+				"fx1/f5": { "x": -0.83, "y": 40.47, "width": 70, "height": 130 },
+				"fx1/f6": { "x": -0.83, "y": 40.47, "width": 69, "height": 152 },
+				"fx1/f7": { "x": -0.83, "y": 40.47, "width": 69, "height": 145 },
+				"fx1/f8": { "x": -0.83, "y": 40.47, "width": 92, "height": 149 },
+				"fx1/f9": { "x": -0.83, "y": 40.47, "width": 64, "height": 133 },
+				"fx1/f10": { "x": -0.83, "y": 40.47, "width": 51, "height": 131 },
+				"fx1/f11": { "x": -0.83, "y": 40.47, "width": 59, "height": 164 },
+				"fx1/f12": { "x": -0.83, "y": 40.47, "width": 56, "height": 152 }
+			},
+			"12tien": {
+				"12tien": { "x": -30, "y": -32.66, "width": 214, "height": 151 }
+			},
+			"5_0029_5vo": {
+				"5_0029_5vo": { "x": 5.34, "y": 8.92, "width": 60, "height": 63 }
+			},
+			"5_0012_5tocsaunu": {
+				"5_0012_5tocsaunu": { "x": 15.39, "y": 2.97, "rotation": 79.49, "width": 22, "height": 50 }
+			},
+			"8coin1": {
+				"8coin1": { "x": 2.35, "y": -2.91, "width": 28, "height": 20 }
+			},
+			"8coin2": {
+				"8coin2": { "x": 0.42, "y": -0.39, "width": 36, "height": 32 }
+			},
+			"8coin3": {
+				"8coin3": { "x": 0.44, "y": 2.15, "width": 25, "height": 24 }
+			},
+			"8coin4": {
+				"8coin4": { "x": 1.2, "y": 0.38, "width": 44, "height": 42 }
+			},
+			"8coin5": {
+				"8coin5": { "x": 0.82, "y": 2.97, "width": 28, "height": 25 }
+			},
+			"8coin6": {
+				"8coin6": { "x": 1.09, "y": 0.75, "width": 19, "height": 21 }
+			},
+			"5_0005_5tayphaitren": {
+				"5_0005_5tayphaitren": {
+					"type": "mesh",
+					"uvs": [ 0.50598, 1, 0.20353, 0.72869, 0, 0.29219, 0, 0, 0.53018, 0, 0.78424, 0.10512, 0.79633, 0.33158, 0.84473, 0.55475, 1, 0.82058, 1, 1 ],
+					"triangles": [ 2, 6, 5, 6, 2, 7, 4, 3, 5, 3, 2, 5, 7, 1, 8, 1, 0, 8, 8, 0, 9, 2, 1, 7 ],
+					"vertices": [ 1, 109, 102.33, -14.88, 1, 1, 109, 49.59, -22.49, 1, 1, 54, 46.59, -20.3, 1, 1, 54, -7.7, -11.95, 1, 1, 54, -3.59, 14.77, 1, 1, 54, 17.92, 24.58, 1, 2, 109, -19.7, 18.59, 0.0015, 54, 60.09, 18.71, 0.9985, 2, 109, 22.15, 14.74, 0.99858, 54, 101.94, 14.77, 0.00142, 1, 109, 72.75, 15.08, 1, 1, 109, 106.09, 10.03, 1 ],
+					"hull": 10,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 0 ],
+					"width": 51,
+					"height": 188
+				}
+			},
+			"13bong-do": {
+				"13bong-do": { "x": 4.39, "y": 2.45, "width": 71, "height": 73 }
+			},
+			"5_0027_5bodynam": {
+				"5_0027_5bodynam": { "x": 129.53, "y": 6.98, "rotation": -90.12, "width": 156, "height": 265 }
+			},
+			"13bong-9": {
+				"13bong-9": { "x": 6.61, "y": -10.61, "width": 144, "height": 134 }
+			},
+			"8XIU": {
+				"8XIU": { "x": -0.22, "y": 4.13, "width": 127, "height": 88 }
+			},
+			"9xingau": {
+				"9xingau": { "x": -0.28, "y": -1.96, "width": 54, "height": 32 }
+			},
+			"9namdia": {
+				"9namdia": { "x": -10.74, "y": 9.33, "scaleX": 0.9041, "scaleY": 0.9041, "width": 105, "height": 45 }
+			},
+			"5_0014_5nutoc": {
+				"5_0014_5nutoc": {
+					"type": "mesh",
+					"uvs": [ 0, 0.29314, 0.2142, 0.401, 0.41978, 0.62683, 0.6576, 0.73807, 0.78256, 0.85604, 0.9438, 1, 1, 1, 1, 0.64369, 0.91155, 0.43133, 0.67373, 0.30662, 0.50443, 0.0673, 0.33916, 0, 0.00862, 0, 0, 0.12123 ],
+					"triangles": [ 12, 13, 11, 4, 5, 6, 8, 3, 7, 3, 4, 7, 4, 6, 7, 9, 3, 8, 2, 3, 9, 1, 2, 9, 10, 1, 9, 11, 1, 10, 13, 1, 11, 13, 0, 1 ],
+					"vertices": [ 3, 96, -11.29, 6.39, 0.92503, 121, 7.31, -33.55, 0.0626, 126, -20.52, -33.74, 0.01237, 4, 96, -23.81, -14.4, 0.28575, 121, 29.32, -23.33, 0.28903, 126, 1.4, -23.32, 0.42455, 127, -35.66, -13.91, 6.6E-4, 3, 96, -50, -34.33, 0.00297, 126, 34.24, -21.17, 0.35824, 127, -3.59, -21.31, 0.63879, 1, 127, 22.4, -16.49, 1, 1, 127, 40.47, -19.26, 1, 1, 127, 63.17, -22.1, 1, 1, 127, 67.37, -18.62, 1, 1, 127, 40.94, 13.17, 1, 2, 126, 41.68, 31.12, 0.0596, 127, 18.6, 26.62, 0.9404, 3, 121, 45.19, 19.72, 0.02443, 126, 16.88, 19.88, 0.70535, 127, -8.39, 23, 0.27022, 2, 121, 12.99, 21.66, 0.91542, 126, -15.33, 21.52, 0.08458, 2, 121, -2.45, 12.74, 0.86895, 119, 25.83, 2.96, 0.13105, 2, 96, 22.71, 5.56, 0.01395, 119, -2.84, 17.3, 0.98605, 2, 96, 8.65, 6.39, 0.39018, 119, -9.87, 5.09, 0.60982 ],
+					"hull": 14,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 26, 26, 0 ],
+					"width": 97,
+					"height": 116
+				}
+			},
+			"8TAI": {
+				"8TAI": { "x": -4.45, "y": 3.61, "width": 138, "height": 86 }
+			},
+			"5_0004_5thatlung2": {
+				"5_0004_5thatlung2": { "x": 11.6, "y": 0.29, "rotation": 90, "width": 14, "height": 43 }
+			},
+			"9dia": {
+				"9dia": { "x": 30.77, "y": 23.08, "scaleX": 1.099, "scaleY": 1.0916, "width": 93, "height": 87 }
+			},
+			"13bg": {
+				"13bg": { "x": 14.58, "y": 156.65, "scaleX": 0.97, "scaleY": 0.978, "width": 259, "height": 366 }
+			},
+			"5_0007_5maitroctrai": {
+				"5_0007_5maitroctrai": {
+					"type": "mesh",
+					"uvs": [ 0.36256, 1, 0, 0.77005, 0, 0.471, 0, 0.17993, 0.22756, 0, 0.84631, 0, 1, 0.07626, 0.93631, 0.22777, 0.54256, 0.24771, 0.45256, 0.42315, 0.56506, 0.61056, 0.77881, 0.80594, 1, 1 ],
+					"triangles": [ 8, 7, 6, 5, 8, 6, 4, 8, 5, 9, 2, 10, 3, 9, 8, 4, 3, 8, 3, 2, 9, 11, 0, 12, 10, 1, 11, 1, 0, 11, 2, 1, 10 ],
+					"vertices": [ 1, 123, 30.72, -14.6, 1, 1, 123, 9.91, -14.43, 1, 2, 123, -10.62, -2.74, 0.07853, 116, 23.71, -8.01, 0.92147, 1, 116, 0.72, -8.25, 1, 2, 116, -13.56, -2.04, 0.61286, 85, 10.43, 11.97, 0.38714, 2, 116, -13.75, 15.28, 0.00814, 85, 10.43, -5.35, 0.99186, 1, 85, 4.41, -9.66, 1, 2, 116, 4.22, 18, 0.00815, 85, -7.56, -7.87, 0.99185, 2, 116, 5.92, 7, 0.65983, 85, -9.14, 3.15, 0.34017, 1, 116, 19.8, 4.62, 1, 2, 123, 6.79, 5.56, 0.88223, 116, 34.56, 7.94, 0.11777, 1, 123, 23.16, 3.12, 1, 1, 123, 39.55, 0.91, 1 ],
+					"hull": 13,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 22, 22, 24, 24, 0 ],
+					"width": 28,
+					"height": 79
+				}
+			},
+			"6phiaduoi": {
+				"6phiaduoi": { "x": -0.89, "y": 3.19, "width": 253, "height": 16 }
+			},
+			"6khungtext": {
+				"6khungtext": { "x": 1.8, "y": 34.74, "width": 217, "height": 73 }
+			},
+			"5_0034_5bg": {
+				"5_0034_5bg": { "x": 0.85, "y": 164.95, "width": 217, "height": 356 }
+			},
+			"5_0002_5thatlung": {
+				"5_0002_5thatlung": { "x": -1.08, "y": -1.07, "rotation": -90.17, "width": 15, "height": 19 }
+			},
+			"5_0024_5dayquannam": {
+				"5_0024_5dayquannam": {
+					"type": "mesh",
+					"uvs": [ 0.54354, 1, 0.49791, 0.38213, 1, 0.36261, 1, 0.01503, 0.14806, 0, 0, 0, 0, 0.36261, 0, 1 ],
+					"triangles": [ 4, 6, 1, 6, 7, 1, 4, 1, 3, 3, 1, 2, 5, 6, 4, 7, 0, 1 ],
+					"vertices": [ 1, 105, 29.26, 4.99, 1, 1, 63, 23.21, 2.8, 1, 1, 63, 22.04, 12.37, 1, 1, 63, -3.67, 13.12, 1, 1, 63, -5.25, -3.03, 1, 1, 63, -5.33, -5.84, 1, 1, 63, 21.49, -6.62, 1, 1, 105, 29.99, -5.31, 1 ],
+					"hull": 8,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 0 ],
+					"width": 19,
+					"height": 74
+				}
+			},
+			"5_0028_5kiemnam": {
+				"5_0028_5kiemnam": {
+					"type": "mesh",
+					"uvs": [ 1, 1, 0, 1, 0, 0, 1, 0 ],
+					"triangles": [ 2, 1, 3, 1, 0, 3 ],
+					"vertices": [ 1, 66, -4.12, -3.8, 1, 1, 67, 206.46, 19.43, 1, 1, 67, 206.46, -22.57, 1, 1, 65, 11, -3.54, 1 ],
+					"hull": 4,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 0 ],
+					"width": 220,
+					"height": 42
+				}
+			},
+			"8khungsotienmoi": {
+				"8khungsotienmoi": { "x": -4.42, "y": -1.82, "width": 219, "height": 73 }
+			},
+			"8dice1": {
+				"8dice1": { "x": 3.47, "y": -6.62, "rotation": -67.95, "width": 109, "height": 97 }
+			},
+			"Khung Tien-JP copy": {
+				"Khung Tien-JP copy": { "x": 2.87, "y": 331.73, "width": 213, "height": 34 }
+			},
+			"5_0033_5nam": {
+				"5_0033_5nam": { "x": -19.82, "y": 1.53, "width": 269, "height": 150 }
+			},
+			"numberchung": {
+				"numberchung": { "x": -0.1, "y": 107.41, "rotation": 0.05, "width": 187, "height": 79 }
+			},
+			"5_0022_5daunam": {
+				"5_0022_5daunam": { "x": 39.3, "y": 2.06, "rotation": -90.94, "width": 58, "height": 81 }
+			},
+			"12khung-ten": {
+				"12khung-ten": { "x": 2.81, "y": -4.02, "width": 295, "height": 102 }
+			},
+			"13bongcam-13": {
+				"13bongcam-13": { "x": -0.79, "y": -5.13, "width": 89, "height": 76 }
+			},
+			"8effect": {
+				"8effect": { "x": 0.87, "y": -45.98, "scaleX": 1.0694, "scaleY": 1.0694, "width": 239, "height": 252 }
+			},
+			"9Ngoc2": {
+				"9Ngoc2": { "x": -0.31, "y": 0.54, "scaleX": 1.6671, "scaleY": 1.656, "width": 41, "height": 34 }
+			},
+			"9Ngoc3": {
+				"9Ngoc3": { "x": 2.29, "y": 0.37, "scaleX": 1.3891, "scaleY": 1.3798, "width": 38, "height": 32 }
+			},
+			"2Longvuonganhsang5": {
+				"2Longvuonganhsang": { "x": 0.13, "y": -0.19, "width": 43, "height": 41 }
+			},
+			"9Ngoc5": {
+				"9Ngoc5": { "x": -0.17, "y": -2.73, "scaleX": 1.6396, "scaleY": 1.6287, "width": 41, "height": 34 }
+			},
+			"8ixiu": {
+				"8ixiu": { "x": -7.37, "y": -2.74, "width": 81, "height": 48 }
+			},
+			"6namecua": {
+				"6namecua": { "x": -10.74, "y": -16.19, "scaleX": 0.8175, "scaleY": 0.8175, "width": 148, "height": 99 }
+			},
+			"5_0019_5tocmaitrai": {
+				"5_0019_5tocmaitrai": {
+					"type": "mesh",
+					"uvs": [ 0.5658, 1, 0.70066, 0.59025, 1, 0.26964, 1, 0, 0.3924, 0, 0.17404, 0.24255, 0.07771, 0.50446, 0.07771, 0.74378, 0, 1, 0.10982, 1 ],
+					"triangles": [ 5, 1, 2, 4, 5, 2, 3, 4, 2, 5, 6, 1, 7, 0, 1, 6, 7, 1, 7, 9, 0, 7, 8, 9 ],
+					"vertices": [ 1, 120, 31.7, 21.89, 1, 3, 120, 5.22, 17.06, 0.74305, 88, -29.06, 7.99, 0.06027, 117, 26.81, 17.64, 0.19668, 3, 120, -18.95, 21.27, 0.01155, 88, -8.77, -5.81, 0.85779, 117, 2.28, 18.27, 0.13066, 2, 88, 8.49, -6.1, 0.97266, 117, -12.39, 9.19, 0.02734, 1, 117, 2.01, -14.06, 1, 2, 120, -5.8, -13.53, 0.15666, 117, 20.38, -14.23, 0.84334, 2, 120, 11.31, -10.85, 0.98349, 117, 36.91, -9.08, 0.01651, 1, 120, 25.36, -4.77, 1, 1, 120, 41.8, -1.48, 1, 1, 120, 39.84, 3.06, 1 ],
+					"hull": 10,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 0 ],
+					"width": 45,
+					"height": 64
+				}
+			},
+			"5_0001_5effect2": {
+				"5_0001_5effect2": { "x": 47.1, "y": 287.57, "width": 309, "height": 197 }
+			},
+			"13toc": {
+				"13toc": { "x": 2.99, "y": 5.37, "width": 92, "height": 65 }
+			},
+			"5_0020_5tocmaiphai": {
+				"5_0020_5tocmaiphai": {
+					"type": "mesh",
+					"uvs": [ 0.40137, 0.96789, 1, 0.74415, 1, 0.39455, 1, 0.17547, 0.65424, 0, 0, 0, 0, 0.24073, 0.30504, 0.23607, 0.2087, 0.57168, 0, 0.88865, 0, 0.99585 ],
+					"triangles": [ 5, 6, 7, 7, 2, 3, 4, 7, 3, 5, 7, 4, 7, 8, 2, 2, 8, 1, 8, 0, 1, 8, 9, 0, 9, 10, 0 ],
+					"vertices": [ 1, 122, 39.95, 3.42, 1, 1, 122, 22.28, 12.73, 1, 2, 122, 1.69, 5.95, 0.89675, 115, 24.29, 3.52, 0.10325, 1, 115, 11.63, 8.43, 1, 1, 115, -1.51, 4.61, 1, 1, 104, 4.88, 4.06, 1, 3, 122, 0.16, -19.83, 0.00548, 115, 6.75, -15.42, 0.11629, 104, -10.05, 4.31, 0.87823, 3, 122, -2.42, -12.96, 0.10784, 115, 9.11, -8.48, 0.5176, 104, -9.87, -3.02, 0.37456, 2, 122, 18.06, -8.65, 0.99913, 115, 27.68, -18.14, 8.7E-4, 1, 122, 38.3, -7.26, 1, 1, 122, 44.6, -5.18, 1 ],
+					"hull": 11,
+					"edges": [ 0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20, 20, 0 ],
+					"width": 24,
+					"height": 62
+				}
+			},
+			"13sieu": {
+				"13sieu": { "x": 3.42, "y": 5.28, "width": 107, "height": 63 }
+			},
+			"9ngoc1": {
+				"9ngoc1": { "x": -0.41, "y": -2.97, "scaleX": 1.3836, "scaleY": 1.3743, "width": 38, "height": 32 }
+			},
+			"5_0018_5tayphaitrennam": {
+				"5_0018_5tayphaitrennam": { "x": 53.61, "y": -2.64, "rotation": 108.92, "width": 67, "height": 119 }
+			},
+			"5_0013_5ngocboinu": {
+				"5_0013_5ngocboinu": { "x": 21.28, "y": -0.51, "rotation": 89.38, "width": 14, "height": 44 }
+			},
+			"5_0010_5daugirl": {
+				"5_0010_5daugirl": { "x": 38.41, "y": 1.52, "rotation": -90, "width": 61, "height": 82 }
+			},
+			"2Longvuonganhsang6": {
+				"2Longvuonganhsang": { "x": 13.1, "y": 37.17, "width": 43, "height": 41 }
+			},
+			"6bg": {
+				"6bg": { "x": 0.98, "y": 172.47, "scaleX": 1.0159, "scaleY": 1.0006, "width": 217, "height": 360 }
+			},
+			"5_0016_5bodynu": {
+				"5_0016_5bodynu": { "x": 107.35, "y": -2.97, "rotation": -90.17, "width": 117, "height": 218 }
+			},
+			"8BG": {
+				"8BG": { "x": 0.36, "y": 169.98, "scaleX": 1.0118, "width": 217, "height": 357 }
+			}
+		}
+	}
+],
+"animations": {
+	"Kungfu": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung2": {
+				"attachment": [
+					{ "name": "numberchung2" }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"Live8": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"Lodesieutoc": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13bong-cam": {
+				"attachment": [
+					{ "name": "13bong-cam" }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13lode": {
+				"attachment": [
+					{ "name": "13lode" }
+				]
+			},
+			"13bong-9": {
+				"attachment": [
+					{ "name": "13bong-9" }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13bong-do": {
+				"attachment": [
+					{ "name": "13bong-do" }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13sieu": {
+				"attachment": [
+					{ "name": "13sieu" }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13toc": {
+				"attachment": [
+					{ "name": "13toc" }
+				]
+			},
+			"13bong-12": {
+				"attachment": [
+					{ "name": "13bong-12" }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13khungtenn": {
+				"attachment": [
+					{ "name": "13khungtenn" }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13bg": {
+				"attachment": [
+					{ "name": "13bg" }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"13bongcam-13": {
+				"attachment": [
+					{ "name": "13bongcam-13" }
+				]
+			},
+			"effect 1/f1": {
+				"color": [
+					{ "time": 0.6667, "color": "ffffffff" },
+					{ "time": 0.7, "color": "ffffff66" },
+					{ "time": 0.7333, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 0.9333, "color": "ffffffff" },
+					{ "time": 0.9667, "color": "ffffff00" },
+					{ "time": 2, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "name": "effect 1/f1" },
+					{ "time": 0.1333, "name": "effect 1/f2" },
+					{ "time": 0.2333, "name": "effect 1/f3" },
+					{ "time": 0.3667, "name": "effect 1/f4" },
+					{ "time": 0.4333, "name": "effect 1/f5" },
+					{ "time": 0.5667, "name": "effect 1/f1" },
+					{ "time": 0.6667, "name": "effect 1/f2" },
+					{ "time": 0.7333, "name": "effect 1/f3" },
+					{ "time": 0.8667, "name": "effect 1/f4" },
+					{ "time": 0.9333, "name": "effect 1/f5" },
+					{ "time": 2, "name": "effect 1/f1" }
+				]
+			}
+		},
+		"bones": {
+			"13lode": {
+				"translate": [
+					{},
+					{ "time": 1, "y": -7.14 },
+					{ "time": 2 }
+				]
+			},
+			"13toc": {
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 1.21, "y": 1.21 },
+					{ "time": 0.6667 }
+				]
+			},
+			"13bong-do": {
+				"translate": [
+					{},
+					{ "time": 1, "y": -10.7 },
+					{ "time": 2 }
+				]
+			},
+			"13bg": {
+				"translate": [
+					{ "x": -2485.9 }
+				]
+			},
+			"13bong-12": {
+				"translate": [
+					{ "y": 10.22 },
+					{ "time": 1, "y": -6.67 },
+					{ "time": 2, "y": 10.22 }
+				]
+			},
+			"13sieu": {
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.23, "y": 1.23 },
+					{ "time": 0.5 }
+				]
+			},
+			"effect": {
+				"translate": [
+					{ "x": 24.47, "y": -212.52 }
+				],
+				"scale": [
+					{ "x": 1.52, "y": 1.52 }
+				]
+			},
+			"13bong-9": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 8.03 },
+					{ "time": 2 }
+				]
+			},
+			"13bong-cam": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 13.38 },
+					{ "time": 2 }
+				]
+			},
+			"13bongcam-13": {
+				"translate": [
+					{},
+					{ "time": 1, "y": -5.35 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"Lode truyenthogn": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12lo": {
+				"attachment": [
+					{ "name": "12lo" }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12tien": {
+				"attachment": [
+					{ "name": "12tien" }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12khung-ten": {
+				"attachment": [
+					{ "name": "12khung-ten" }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12bong-2": {
+				"attachment": [
+					{ "name": "12bong-2" }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12bong-3": {
+				"attachment": [
+					{ "name": "12bong-3" }
+				]
+			},
+			"12bong-4": {
+				"attachment": [
+					{ "name": "12bong-4" }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12bong-5": {
+				"attachment": [
+					{ "name": "12bong-5" }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12bg": {
+				"attachment": [
+					{ "name": "12bg" }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"12bong-1": {
+				"attachment": [
+					{ "name": "12bong-1" }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"12tien": {
+				"translate": [
+					{},
+					{ "time": 1, "y": 8.4 },
+					{ "time": 2 }
+				]
+			},
+			"12bong-5": {
+				"translate": [
+					{},
+					{ "time": 1, "x": -5.88 },
+					{ "time": 2 }
+				]
+			},
+			"12bong-2": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "y": 11.76, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"12bg": {
+				"translate": [
+					{ "x": -2152.51 }
+				]
+			},
+			"12bong-3": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "y": -11.76, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"12bong-1": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": 4.88, "curve": "stepped" },
+					{ "time": 1, "angle": 4.88, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": -2.88, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				],
+				"scale": [
+					{ "time": 0.6667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 1.1, "y": 1.1, "curve": "stepped" },
+					{ "time": 1.3333, "x": 1.1, "y": 1.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"12lo": {
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.3, "y": 1.3 },
+					{ "time": 0.5, "curve": "stepped" },
+					{ "time": 0.6667 },
+					{ "time": 1, "x": 1.3, "y": 1.3 },
+					{ "time": 1.1667, "curve": "stepped" },
+					{ "time": 1.3333 },
+					{ "time": 1.6667, "x": 1.3, "y": 1.3 },
+					{ "time": 1.8333 }
+				]
+			},
+			"12bong-4": {
+				"translate": [
+					{},
+					{ "time": 1, "x": 0.84, "y": -7.56 },
+					{ "time": 2 }
+				]
+			},
+			"12de": {
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 1.34, "y": 1.34 },
+					{ "time": 0.6667 }
+				]
+			}
+		}
+	},
+	"Longvuong3": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"BGCHUNG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"2Longvuonganhsang4": {
+				"translate": [
+					{ "x": -28.3, "y": 62.88 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 0.58, "y": 0.58 },
+					{ "time": 0.6667, "x": 1.36, "y": 1.36 },
+					{ "time": 1, "x": 0.27, "y": 0.27 },
+					{ "time": 1.1, "x": 0.43, "y": 0.43 },
+					{ "time": 1.2, "x": 0.33, "y": 0.33 },
+					{ "time": 2 }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"translate": [
+					{ "x": -28.3, "y": 62.88 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 0.58, "y": 0.58 },
+					{ "time": 0.6667, "x": 1.36, "y": 1.36 },
+					{ "time": 1, "x": 0.27, "y": 0.27 },
+					{ "time": 1.1, "x": 0.43, "y": 0.43 },
+					{ "time": 1.2, "x": 0.33, "y": 0.33 },
+					{ "time": 2 }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"translate": [
+					{ "x": -28.3, "y": 62.88 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 0.58, "y": 0.58 },
+					{ "time": 0.6667, "x": 1.36, "y": 1.36 },
+					{ "time": 1, "x": 0.27, "y": 0.27 },
+					{ "time": 1.1, "x": 0.43, "y": 0.43 },
+					{ "time": 1.2, "x": 0.33, "y": 0.33 },
+					{ "time": 2 }
+				]
+			},
+			"Namelobby": {
+				"translate": [
+					{ "y": 7.84 }
+				]
+			}
+		}
+	},
+	"Phongthan": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung2": {
+				"attachment": [
+					{ "name": "numberchung2" }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"Volam": {
+		"slots": {
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"color": [
+					{ "time": 0.1667, "color": "ffffffff" },
+					{ "time": 0.2667, "color": "ffffff73" },
+					{ "time": 0.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.0667, "name": "5_0000_5effect1" }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0008_5girlmat2": {
+				"attachment": [
+					{ "time": 0.7667, "name": "5_0008_5girlmat2" },
+					{ "time": 0.8667, "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0009_5girlmat1": {
+				"attachment": [
+					{ "time": 0.6667, "name": "5_0009_5girlmat1" },
+					{ "time": 0.7667, "name": null }
+				]
+			},
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.8333, "name": "5_0021_5matnhamnam" },
+					{ "time": 0.9333, "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung2": {
+				"attachment": [
+					{ "name": "numberchung2" }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"fx1/f1": {
+				"attachment": [
+					{ "name": "fx1/f1" },
+					{ "time": 0.0667, "name": "fx1/f2" },
+					{ "time": 0.1333, "name": "fx1/f3" },
+					{ "time": 0.2, "name": "fx1/f4" },
+					{ "time": 0.2667, "name": "fx1/f5" },
+					{ "time": 0.3333, "name": "fx1/f6" },
+					{ "time": 0.4, "name": "fx1/f7" },
+					{ "time": 0.4667, "name": "fx1/f8" },
+					{ "time": 0.5333, "name": "fx1/f9" },
+					{ "time": 0.6, "name": "fx1/f10" },
+					{ "time": 0.667, "name": "fx1/f11" },
+					{ "time": 0.7337, "name": "fx1/f12" },
+					{ "time": 0.8004, "name": "fx1/f1" },
+					{ "time": 0.8671, "name": "fx1/f2" },
+					{ "time": 0.9338, "name": "fx1/f3" },
+					{ "time": 1.0005, "name": "fx1/f4" },
+					{ "time": 1.0672, "name": "fx1/f5" },
+					{ "time": 1.1339, "name": "fx1/f6" },
+					{ "time": 1.2006, "name": "fx1/f7" },
+					{ "time": 1.2673, "name": "fx1/f8" },
+					{ "time": 1.334, "name": "fx1/f9" },
+					{ "time": 1.4007, "name": "fx1/f10" },
+					{ "time": 1.4674, "name": "fx1/f11" },
+					{ "time": 1.5341, "name": "fx1/f12" },
+					{ "time": 1.6008, "name": "fx1/f1" },
+					{ "time": 1.6675, "name": "fx1/f2" },
+					{ "time": 1.7342, "name": "fx1/f3" },
+					{ "time": 1.8009, "name": "fx1/f4" },
+					{ "time": 1.8676, "name": "fx1/f5" },
+					{ "time": 1.9343, "name": "fx1/f6" },
+					{ "time": 2.001, "name": "fx1/f7" }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"5_0000_5effect1": {
+				"translate": [
+					{},
+					{ "time": 0.1667, "x": 47.19, "y": -10.04 },
+					{ "time": 0.3333, "x": 126.5, "y": -15.06 }
+				]
+			},
+			"effectvolam": {
+				"translate": [
+					{ "y": -45.43 }
+				],
+				"scale": [
+					{ "y": 1.94 }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -13.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 15.38, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -13.67, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "angle": 15.38, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -2.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0034_5bg": {
+				"translate": [
+					{ "x": 1377.35 }
+				]
+			},
+			"5_0016_5bodynu": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": 0.31, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0010_5daugirl": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -7.62, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0006_5maitoctren2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -5.89 },
+					{ "time": 2 }
+				]
+			},
+			"5_0006_5maitoctren3": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -13.07 },
+					{ "time": 2 }
+				]
+			},
+			"5_0007_5maitroctrai2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -6.2 },
+					{ "time": 2 }
+				]
+			},
+			"5_0007_5maitroctrai3": {
+				"rotate": [
+					{ "angle": -1.03 },
+					{ "time": 0.1667 },
+					{ "time": 1.1667, "angle": -6.2 },
+					{ "time": 2, "angle": -1.03 }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 15.57 },
+					{ "time": 2 }
+				]
+			},
+			"5_0014_5nutoc3": {
+				"rotate": [
+					{ "angle": -14.92 },
+					{ "time": 0.1333, "angle": -16.68 },
+					{ "time": 1.1333, "angle": -3.43 },
+					{ "time": 2, "angle": -14.92 }
+				]
+			},
+			"5_0014_5nutoc4": {
+				"rotate": [
+					{ "angle": -14.03 },
+					{ "time": 0.2, "angle": -16.68 },
+					{ "time": 1.2, "angle": -3.43 },
+					{ "time": 2, "angle": -14.03 }
+				]
+			},
+			"5_0014_5nutoc5": {
+				"rotate": [
+					{ "angle": -13.15 },
+					{ "time": 0.2667, "angle": -16.68 },
+					{ "time": 1.2667, "angle": -3.43 },
+					{ "time": 2, "angle": -13.15 }
+				]
+			},
+			"5_0016_5bodynu2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -3.4 },
+					{ "time": 2 }
+				],
+				"scale": [
+					{},
+					{ "time": 1, "x": 1.08, "y": 1.08 },
+					{ "time": 2 }
+				]
+			},
+			"5_0017_5aochongsaunu-2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -0.17 },
+					{ "time": 2 }
+				]
+			},
+			"5_0017_5aochongsaunu-3": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": 0.05 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{},
+					{ "time": 1, "x": 4.45, "y": 12.21 },
+					{ "time": 2 }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -16.1 },
+					{ "time": 2 }
+				]
+			},
+			"5_0011_5daycottocnu2": {
+				"rotate": [
+					{},
+					{ "time": 1, "angle": -16.1 },
+					{ "time": 2 }
+				]
+			},
+			"5_0005_5tayphaitren2": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -2.1, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0027_5bodynam": {
+				"rotate": [
+					{ "angle": -0.22 },
+					{ "time": 1, "angle": -0.37 },
+					{ "time": 2, "angle": -0.22 }
+				],
+				"scale": [
+					{},
+					{ "time": 1, "x": 1.03 },
+					{ "time": 2 }
+				]
+			},
+			"5_0022_5daunam": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.8333, "angle": 2.68, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0019_5tocmaitrai2": {
+				"rotate": [
+					{ "angle": -0.99 },
+					{ "time": 0.1333 },
+					{ "time": 0.9667, "angle": -8.69 },
+					{ "time": 2, "angle": -0.99 }
+				]
+			},
+			"5_0019_5tocmaitrai3": {
+				"rotate": [
+					{ "angle": -1.49 },
+					{ "time": 0.2 },
+					{ "time": 1.0333, "angle": -8.69 },
+					{ "time": 2, "angle": -1.49 }
+				]
+			},
+			"5_0020_5tocmaiphai2": {
+				"rotate": [
+					{ "angle": -0.62 },
+					{ "time": 0.1333 },
+					{ "time": 0.9667, "angle": -5.47 },
+					{ "time": 2, "angle": -0.62 }
+				]
+			},
+			"5_0020_5tocmaiphai3": {
+				"rotate": [
+					{ "angle": -0.94 },
+					{ "time": 0.2 },
+					{ "time": 1.0333, "angle": -5.47 },
+					{ "time": 2, "angle": -0.94 }
+				]
+			},
+			"5_0023_5duoitocnam2": {
+				"rotate": [
+					{ "angle": 2.2 },
+					{ "time": 0.1333 },
+					{ "time": 1.1333, "angle": 16.53 },
+					{ "time": 2, "angle": 2.2 }
+				]
+			},
+			"5_0023_5duoitocnam3": {
+				"rotate": [
+					{ "angle": 3.31 },
+					{ "time": 0.2 },
+					{ "time": 1.2, "angle": 16.53 },
+					{ "time": 2, "angle": 3.31 }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -8.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0024_5dayquannam2": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -8.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -8.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0025_5dayquangnam3": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -8.66, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0027_5bodynam4": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "angle": -3.4, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				]
+			},
+			"5_0029_5vo": {
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.39, "y": 1.39 },
+					{ "time": 0.5 }
+				]
+			},
+			"5_0030_5lam": {
+				"scale": [
+					{ "time": 0.3667 },
+					{ "time": 0.5, "x": 1.25, "y": 1.25 },
+					{ "time": 0.6667 }
+				]
+			},
+			"5_0032_5truyen": {
+				"scale": [
+					{ "time": 0.5667 },
+					{ "time": 0.6667, "x": 1.17, "y": 1.17 },
+					{ "time": 0.8333 }
+				]
+			},
+			"5_0031_5ky": {
+				"scale": [
+					{},
+					{ "time": 0.8333, "x": 1.2, "y": 1.2 },
+					{ "time": 1 }
+				]
+			}
+		}
+	},
+	"baucua9": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung2": {
+				"attachment": [
+					{ "time": 2, "name": "numberchung2" }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung": {
+				"attachment": [
+					{ "time": 2, "name": "numberchung" }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"color": [
+					{ "time": 1.4667, "color": "ffffffff" },
+					{ "time": 1.8667, "color": "ffffff69" },
+					{ "time": 1.9667, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 1.4667, "name": "2Longvuonganhsang" }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"color": [
+					{ "time": 0.5, "color": "ffffffff" },
+					{ "time": 0.9, "color": "ffffff69" },
+					{ "time": 1, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": "2Longvuonganhsang" }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"color": [
+					{ "time": 1, "color": "ffffffff" },
+					{ "time": 1.4, "color": "ffffff69" },
+					{ "time": 1.5, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 1, "name": "2Longvuonganhsang" }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"6phiaduoi": {
+				"translate": [
+					{ "y": -15.36 },
+					{ "time": 2 }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"translate": [
+					{ "x": 35.33, "y": -19.32 },
+					{ "time": 0.5, "x": -27.05, "y": 15.46 }
+				],
+				"scale": [
+					{ "time": 0.5 },
+					{ "time": 0.6, "x": 0.69, "y": 0.69 },
+					{ "time": 0.7, "x": 1.13, "y": 1.13 },
+					{ "time": 0.8, "x": 0.51, "y": 0.51 },
+					{ "time": 1, "x": 0.79, "y": 0.79 }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"scale": [
+					{ "time": 1.4667 },
+					{ "time": 1.5667, "x": 0.69, "y": 0.69 },
+					{ "time": 1.6667, "x": 1.13, "y": 1.13 },
+					{ "time": 1.7667, "x": 0.51, "y": 0.51 },
+					{ "time": 1.9667, "x": 0.79, "y": 0.79 }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"scale": [
+					{ "time": 1 },
+					{ "time": 1.1, "x": 0.69, "y": 0.69 },
+					{ "time": 1.2, "x": 1.13, "y": 1.13 },
+					{ "time": 1.3, "x": 0.51, "y": 0.51 },
+					{ "time": 1.5, "x": 0.79, "y": 0.79 }
+				]
+			},
+			"6bg": {
+				"translate": [
+					{ "x": -924.29, "y": 15.36 }
+				]
+			},
+			"6tom": {
+				"rotate": [
+					{ "time": 0.5, "curve": 0.33, "c2": 0.22, "c3": 0.664, "c4": 0.56 },
+					{ "time": 0.8333, "angle": -18.48, "curve": "stepped" },
+					{ "time": 1.1667, "angle": -18.48, "curve": 0.323, "c2": 0.17, "c3": 0.656, "c4": 0.51 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ "x": -27.94, "y": -3.57, "curve": 0.165, "c3": 0.832, "c4": 0.67 },
+					{ "time": 0.5, "x": -27.94, "y": 5.62, "curve": "stepped" },
+					{ "time": 0.8333, "x": -27.94, "y": 5.62 },
+					{
+						"time": 1.1667,
+						"x": -27.94,
+						"y": -5.44,
+						"curve": 0.323,
+						"c2": 0.17,
+						"c3": 0.656,
+						"c4": 0.51
+					},
+					{ "time": 2, "x": -27.94, "y": -3.57 }
+				]
+			},
+			"6cua": {
+				"rotate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "angle": -14.51, "curve": "stepped" },
+					{ "time": 1, "angle": -14.51, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ "x": 25.38, "y": 3.91, "curve": "stepped" },
+					{ "time": 0.6667, "x": 25.38, "y": 3.91, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1, "x": 27.42, "y": -7.33, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": 25.38, "y": 3.91 }
+				]
+			},
+			"6bau": {
+				"rotate": [
+					{ "curve": 0.253, "c3": 0.684, "c4": 0.73 },
+					{ "time": 0.8333, "angle": -12.01, "curve": "stepped" },
+					{ "time": 1, "angle": -12.01, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2 }
+				],
+				"translate": [
+					{ "x": 2.09, "y": 0.4, "curve": "stepped" },
+					{ "time": 0.8333, "x": 2.09, "y": 0.4, "curve": 0.365, "c2": 0.45, "c3": 0.754 },
+					{ "time": 1, "x": 0.17, "y": -13.74, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": 2.09, "y": 0.4 }
+				]
+			},
+			"6namebau": {
+				"translate": [
+					{ "x": -12.68, "y": -15.36 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 1.19, "y": 1.19 },
+					{ "time": 1, "x": 0.81, "y": 0.81 },
+					{ "time": 2 }
+				]
+			},
+			"6namecua": {
+				"rotate": [
+					{ "time": 0.5333, "angle": 100.79 }
+				],
+				"translate": [
+					{ "x": 8.88, "y": -15.36 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.5, "x": 0.77, "y": 0.77 },
+					{ "time": 1, "x": 1.32, "y": 1.32 },
+					{ "time": 2 }
+				]
+			}
+		}
+	},
+	"cachephoarong": {
+		"slots": {
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung2": {
+				"attachment": [
+					{ "name": "numberchung2" }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"BGCHUNG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"translate": [
+					{ "y": 1.67 }
+				]
+			},
+			"Namelobby": {
+				"translate": [
+					{ "y": 7.84 }
+				]
+			}
+		}
+	},
+	"dieuthuyen": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung2": {
+				"attachment": [
+					{ "name": "numberchung2" }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		}
+	},
+	"phucloctho": {
+		"slots": {
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"numberchung2": {
+				"attachment": [
+					{ "name": "numberchung2" }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"6bg": {
+				"translate": [
+					{ "x": -924.29 }
+				]
+			}
+		}
+	},
+	"taixiu5": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9dia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9ngoc1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namdia": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9DIA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9namxoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9NAME": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9HOA1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9Ngoc2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"8BG": {
+				"translate": [
+					{ "x": 306.18 }
+				]
+			},
+			"8coin2": {
+				"translate": [
+					{ "x": 69.39, "y": -97.15 },
+					{ "time": 0.2667, "x": 1.19, "y": 1.43 },
+					{ "time": 0.5333, "x": -4.42, "y": 4.64 },
+					{ "time": 0.8, "x": 1.19, "y": 1.43 },
+					{ "time": 1.0667, "x": -4.42, "y": 4.64 },
+					{ "time": 1.3333, "x": 1.19, "y": 1.43 },
+					{ "time": 1.6, "x": -4.42, "y": 4.64 },
+					{ "time": 2, "x": 1.19, "y": 1.43 }
+				]
+			},
+			"8coin6": {
+				"translate": [
+					{ "x": -41.63, "y": 83.27 },
+					{ "time": 0.3333, "x": 18.07, "y": -5.29 },
+					{ "time": 0.6667, "x": 18.07, "y": -2.88 },
+					{ "time": 1, "x": 18.07, "y": -5.29 },
+					{ "time": 1.3333, "x": 18.07, "y": -2.88 },
+					{ "time": 1.6667, "x": 18.07, "y": -5.29 }
+				]
+			},
+			"8coin1": {
+				"translate": [
+					{ "x": -76.33, "y": 70.16 },
+					{ "time": 0.3333, "x": 0.29, "y": 10.46 },
+					{ "time": 0.6667, "x": 0.29, "y": 8.06 },
+					{ "time": 1.0333, "x": 0.29, "y": 10.46 },
+					{ "time": 1.3667, "x": 0.29, "y": 8.06 },
+					{ "time": 1.6667, "x": 0.29, "y": 10.46 }
+				]
+			},
+			"8coin4": {
+				"translate": [
+					{ "x": -72.47, "y": 107.17 },
+					{ "time": 0.2667, "x": 3.76, "y": -0.01 },
+					{ "time": 0.6667, "x": 3.76, "y": 6.61 },
+					{ "time": 1.1667, "x": 3.76, "y": -0.01 }
+				]
+			},
+			"8coin3": {
+				"translate": [
+					{ "x": 84.81, "y": 61.68, "curve": "stepped" },
+					{ "time": 0.1667, "x": 84.81, "y": 61.68 },
+					{ "time": 0.3333, "x": -4.74, "y": -13.94 },
+					{ "time": 0.8333, "x": -4.74, "y": -5.12 },
+					{ "time": 1.2, "x": -4.74, "y": -13.94 },
+					{ "time": 1.6, "x": -4.74, "y": -5.12 },
+					{ "time": 2, "x": -4.74, "y": -13.94 }
+				]
+			},
+			"8coin5": {
+				"translate": [
+					{ "x": 90.36, "y": 101.77 },
+					{ "time": 0.2667, "x": 8.77, "y": 1.28 },
+					{ "time": 0.5, "x": 6.36, "y": -1.93 },
+					{ "time": 0.8333, "x": 8.77, "y": 1.28 },
+					{ "time": 1.0667, "x": 6.36, "y": -1.93 },
+					{ "time": 1.3333, "x": 8.77, "y": 1.28 },
+					{ "time": 1.5667, "x": 6.36, "y": -1.93 },
+					{ "time": 2, "x": 8.77, "y": 1.28 }
+				]
+			},
+			"8TAI": {
+				"scale": [
+					{ "x": 0.91, "y": 0.91 },
+					{ "time": 0.3333, "x": 0.75, "y": 0.75 },
+					{ "time": 0.5, "x": 0.91, "y": 0.91 },
+					{ "time": 0.6667, "x": 0.75, "y": 0.75 },
+					{ "time": 0.8333, "x": 0.91, "y": 0.91 }
+				]
+			},
+			"8XIU": {
+				"scale": [
+					{ "x": 0.9, "y": 0.9, "curve": 0.276, "c3": 0.621, "c4": 0.4 },
+					{ "time": 0.5, "x": 0.73, "y": 0.73, "curve": 0.333, "c2": 0.33, "c3": 0.758 },
+					{ "time": 0.6667, "x": 0.9, "y": 0.9, "curve": 0.276, "c3": 0.621, "c4": 0.4 },
+					{ "time": 0.8333, "x": 0.73, "y": 0.73, "curve": 0.333, "c2": 0.33, "c3": 0.758 },
+					{ "time": 1, "x": 0.9, "y": 0.9 }
+				]
+			},
+			"8dice2": {
+				"rotate": [
+					{ "time": 0.2667 },
+					{ "time": 0.3, "angle": 40 },
+					{ "time": 0.3333, "angle": 120 },
+					{ "time": 0.3667, "angle": 160 },
+					{ "time": 0.4, "angle": -160 },
+					{ "time": 0.4333, "angle": -120 },
+					{ "time": 0.4667, "angle": -80 },
+					{ "time": 0.5, "angle": -40 },
+					{ "time": 0.5333 },
+					{ "time": 0.5667, "angle": 40 },
+					{ "time": 0.6, "angle": 120 },
+					{ "time": 0.633, "angle": 160 },
+					{ "time": 0.6663, "angle": -160 },
+					{ "time": 0.6996, "angle": -120 },
+					{ "time": 0.7663, "angle": -80 },
+					{ "time": 0.833, "angle": -40 },
+					{ "time": 0.9 },
+					{ "time": 1, "angle": 40 },
+					{ "time": 1.1, "angle": 80 },
+					{ "time": 1.2, "angle": 120 },
+					{ "time": 1.333, "angle": 160 },
+					{ "time": 1.4663, "angle": -160 },
+					{ "time": 1.5996, "angle": -120 },
+					{ "time": 1.7329, "angle": -80 },
+					{ "time": 1.8662, "angle": -40 },
+					{ "time": 1.9995 }
+				],
+				"translate": [
+					{ "time": 0.5 },
+					{ "time": 0.5333, "x": -1.25, "y": -12.52 }
+				],
+				"scale": [
+					{ "x": 0.39, "y": 0.39 },
+					{ "time": 0.2 }
+				]
+			},
+			"8dice1": {
+				"rotate": [
+					{ "time": 0.2 },
+					{ "time": 0.2333, "angle": 40 },
+					{ "time": 0.2667, "angle": 80 },
+					{ "time": 0.3, "angle": 120 },
+					{ "time": 0.3333, "angle": 160 },
+					{ "time": 0.3667, "angle": -160 },
+					{ "time": 0.4, "angle": -120 },
+					{ "time": 0.4333, "angle": -40 },
+					{ "time": 0.4667 },
+					{ "time": 0.5, "angle": 40 },
+					{ "time": 0.533, "angle": 80 },
+					{ "time": 0.5663, "angle": 120 },
+					{ "time": 0.5996, "angle": 160 },
+					{ "time": 0.6329, "angle": -160 },
+					{ "time": 0.6662, "angle": -120 },
+					{ "time": 0.6995, "angle": -40 },
+					{ "time": 0.7328 },
+					{ "time": 0.7661, "angle": 40 },
+					{ "time": 0.7994, "angle": 80 },
+					{ "time": 0.8327, "angle": 120 },
+					{ "time": 0.866, "angle": 160 },
+					{ "time": 0.8993, "angle": -160 },
+					{ "time": 0.9326, "angle": -120 },
+					{ "time": 0.9659, "angle": -40 },
+					{ "time": 0.9992 },
+					{ "time": 1.0992, "angle": 40 },
+					{ "time": 1.1992, "angle": 80 },
+					{ "time": 1.3325, "angle": 120 },
+					{ "time": 1.4325, "angle": 160 },
+					{ "time": 1.5658, "angle": -160 },
+					{ "time": 1.6991, "angle": -120 },
+					{ "time": 1.8324, "angle": -80 },
+					{ "time": 1.9991, "angle": -40 }
+				],
+				"translate": [
+					{ "x": -36.84, "y": -54.03 },
+					{ "time": 0.2, "x": -4.38, "y": -21.28 }
+				],
+				"scale": [
+					{ "x": 0.54, "y": 0.54 },
+					{ "time": 0.2 }
+				]
+			},
+			"8dice3": {
+				"rotate": [
+					{ "time": 0.2 },
+					{ "time": 0.2333, "angle": 40 },
+					{ "time": 0.2667, "angle": 80 },
+					{ "time": 0.3, "angle": 120 },
+					{ "time": 0.3333, "angle": 160 },
+					{ "time": 0.3667, "angle": -160 },
+					{ "time": 0.4, "angle": -120 },
+					{ "time": 0.4333, "angle": -80 },
+					{ "time": 0.4667, "angle": -40 },
+					{ "time": 0.5 },
+					{ "time": 0.533, "angle": 40 },
+					{ "time": 0.5663, "angle": 80 },
+					{ "time": 0.5996, "angle": 120 },
+					{ "time": 0.6329, "angle": 160 },
+					{ "time": 0.6662, "angle": -160 },
+					{ "time": 0.6995, "angle": -120 },
+					{ "time": 0.7662, "angle": -80 },
+					{ "time": 0.8329, "angle": -40 },
+					{ "time": 0.9329 },
+					{ "time": 1.0662, "angle": 40 },
+					{ "time": 1.1662, "angle": 80 },
+					{ "time": 1.3329, "angle": 120 },
+					{ "time": 1.4996, "angle": 160 },
+					{ "time": 1.6663, "angle": -160 },
+					{ "time": 1.833, "angle": -120 },
+					{ "time": 2, "angle": -40 }
+				],
+				"translate": [
+					{ "x": 33.16, "y": -38.07 },
+					{ "time": 0.2 }
+				],
+				"scale": [
+					{ "x": 0.46, "y": 0.46 },
+					{ "time": 0.2 }
+				]
+			},
+			"8effect": {
+				"scale": [
+					{ "x": 0.52, "y": 0.52 },
+					{ "time": 0.3333, "x": 0.92, "y": 0.92 },
+					{ "time": 0.6667, "x": 1.16, "y": 1.16 },
+					{ "time": 1, "x": 0.52, "y": 0.52 },
+					{ "time": 1.3333, "x": 0.92, "y": 0.92 },
+					{ "time": 1.6667, "x": 1.16, "y": 1.16 },
+					{ "time": 2 }
+				]
+			},
+			"8T": {
+				"translate": [
+					{},
+					{ "time": 0.2, "y": -6.08 },
+					{ "time": 0.3667, "curve": "stepped" },
+					{ "time": 0.9333 },
+					{ "time": 1.1, "y": -6.08 },
+					{ "time": 1.2667 }
+				]
+			},
+			"8A": {
+				"translate": [
+					{},
+					{ "time": 0.3667, "y": -6.88 },
+					{ "time": 0.5667, "curve": "stepped" },
+					{ "time": 0.9333 },
+					{ "time": 1.2667, "y": -6.88 },
+					{ "time": 1.4333 }
+				]
+			},
+			"8i": {
+				"translate": [
+					{},
+					{ "time": 0.5667, "y": -6.07 },
+					{ "time": 0.7333, "curve": "stepped" },
+					{ "time": 0.9333 },
+					{ "time": 1.4333, "y": -6.07 },
+					{ "time": 1.6 }
+				]
+			},
+			"8x": {
+				"translate": [
+					{},
+					{ "time": 0.2, "y": -7.02 },
+					{ "time": 0.3667, "curve": "stepped" },
+					{ "time": 0.9333 },
+					{ "time": 1.1, "y": -7.02 },
+					{ "time": 1.2667 }
+				]
+			},
+			"8U": {
+				"translate": [
+					{},
+					{ "time": 0.5667, "y": -9.18 },
+					{ "time": 0.7333, "curve": "stepped" },
+					{ "time": 0.9333 },
+					{ "time": 1.4333, "y": -9.18 },
+					{ "time": 1.6 }
+				]
+			},
+			"8ixiu": {
+				"translate": [
+					{},
+					{ "time": 0.3667, "y": -9.72 },
+					{ "time": 0.5667, "curve": "stepped" },
+					{ "time": 0.9333 },
+					{ "time": 1.2667, "y": -9.72 },
+					{ "time": 1.4333 }
+				]
+			}
+		}
+	},
+	"xocdia3": {
+		"slots": {
+			"9EFFECT2": {
+				"attachment": [
+					{ "time": 0.4667, "name": null },
+					{ "time": 0.9667, "name": "9EFFECT" }
+				]
+			},
+			"6bau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6tom": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8BG": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0001_5effect2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9xingau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0000_5effect1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT3": {
+				"color": [
+					{ "time": 0.4, "color": "ffffffff" },
+					{ "time": 0.5, "color": "ffffff5e" },
+					{ "time": 0.6, "color": "ffffffff", "curve": "stepped" },
+					{ "time": 1.6, "color": "ffffffff" },
+					{ "time": 1.6667, "color": "ffffff73" },
+					{ "time": 1.7333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0.1, "name": null },
+					{ "time": 0.2, "name": "9EFFECT" },
+					{ "time": 0.3, "name": null },
+					{ "time": 0.4, "name": "9EFFECT" },
+					{ "time": 0.5, "name": null },
+					{ "time": 0.6, "name": "9EFFECT" },
+					{ "time": 0.7, "name": null },
+					{ "time": 0.8, "name": "9EFFECT" },
+					{ "time": 0.9, "name": null },
+					{ "time": 1, "name": "9EFFECT" },
+					{ "time": 1.1, "name": null },
+					{ "time": 1.2, "name": "9EFFECT" },
+					{ "time": 1.3, "name": null },
+					{ "time": 1.4, "name": "9EFFECT" },
+					{ "time": 1.5, "name": null },
+					{ "time": 1.6, "name": "9EFFECT" },
+					{ "time": 1.7333, "name": null },
+					{ "time": 1.8333, "name": "9EFFECT" }
+				]
+			},
+			"5_0032_5truyen": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9EFFECT": {
+				"attachment": [
+					{ "time": 0.4667, "name": null },
+					{ "time": 0.9667, "name": "9EFFECT" }
+				]
+			},
+			"5_0016_5bodynu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8effect": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0027_5bodynam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"9textxocdia": {
+				"attachment": [
+					{ "name": "9textxocdia" }
+				]
+			},
+			"5_0002_5thatlung": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namecua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0030_5lam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0006_5maitoctren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0029_5vo": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0031_5ky": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0033_5nam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"Khung Tien-JP copy": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice3": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang4": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0007_5maitroctrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0014_5nutoc": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6namebau": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0034_5bg": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6cua": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0018_5tayphaitrennam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0012_5tocsaunu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6phiaduoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8A": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"6khungtext": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0025_5dayquangnam2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0019_5tocmaitrai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8ixiu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0010_5daugirl": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0024_5dayquannam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0013_5ngocboinu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0028_5kiemnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang6": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0022_5daunam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0011_5daycottocnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8sotienmoi2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0026_5dayvainam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8khungsotienmoi": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0015_5ngucnu": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0003_5thatlung1": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8dice2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0004_5thatlung2": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0005_5tayphaitren": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0020_5tocmaiphai": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"2Longvuonganhsang5": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0017_5aochongsaunu-": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0021_5matnhamnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"5_0023_5duoitocnam": {
+				"attachment": [
+					{ "name": null }
+				]
+			},
+			"8coin2": {
+				"attachment": [
+					{ "name": null }
+				]
+			}
+		},
+		"bones": {
+			"9xingau": {
+				"scale": [
+					{},
+					{ "time": 1, "x": 1.09, "y": 1.09 },
+					{ "time": 2 }
+				]
+			},
+			"9BG2": {
+				"translate": [
+					{ "x": 0.58, "y": -5.4 }
+				],
+				"scale": [
+					{ "x": 1.02 }
+				]
+			},
+			"9EFFECT": {
+				"rotate": [
+					{ "time": 0.4 },
+					{ "time": 0.6, "angle": 2.29 },
+					{ "time": 0.6667, "angle": -3.9 },
+					{ "time": 0.7667, "angle": 2.29 },
+					{ "time": 0.8333, "angle": -3.9 },
+					{ "time": 0.9333, "angle": 2.29, "curve": "stepped" },
+					{ "time": 0.9667, "angle": 2.29 },
+					{ "time": 1, "angle": -3.9, "curve": "stepped" },
+					{ "time": 1.3667, "angle": -3.9 },
+					{ "time": 2 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.0333, "x": 0.43, "y": 0.43 },
+					{ "time": 0.1, "x": 0.95, "y": 0.95 },
+					{ "time": 0.1333, "x": 0.41, "y": 0.41 },
+					{ "time": 0.2, "x": 0.75, "y": 0.75 },
+					{ "time": 0.2667, "x": 0.63, "y": 0.63 },
+					{ "time": 0.3333, "x": 0.81, "y": 0.81 },
+					{ "time": 0.4, "x": 0.61, "y": 0.61, "curve": "stepped" },
+					{ "time": 0.9333, "x": 0.61, "y": 0.61 },
+					{ "time": 0.9667 },
+					{ "time": 1, "x": 0.43, "y": 0.43 },
+					{ "time": 1.0667, "x": 0.95, "y": 0.95 },
+					{ "time": 1.1, "x": 0.41, "y": 0.41 },
+					{ "time": 1.1667, "x": 0.75, "y": 0.75 },
+					{ "time": 1.2333, "x": 0.63, "y": 0.63 },
+					{ "time": 1.3, "x": 0.81, "y": 0.81 },
+					{ "time": 1.3667, "x": 0.61, "y": 0.61 },
+					{ "time": 2 }
+				]
+			},
+			"9EFFECT2": {
+				"rotate": [
+					{ "time": 0.4 },
+					{ "time": 0.6, "angle": 2.29 },
+					{ "time": 0.6667, "angle": -3.9 },
+					{ "time": 0.7667, "angle": 2.29 },
+					{ "time": 0.8333, "angle": -3.9 },
+					{ "time": 0.9333, "angle": 2.29, "curve": "stepped" },
+					{ "time": 0.9667, "angle": 2.29 },
+					{ "time": 1, "angle": -3.9, "curve": "stepped" },
+					{ "time": 1.3667, "angle": -3.9 },
+					{ "time": 2 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.0333, "x": 0.43, "y": 0.43 },
+					{ "time": 0.1, "x": 0.95, "y": 0.95 },
+					{ "time": 0.1333, "x": 0.41, "y": 0.41 },
+					{ "time": 0.2, "x": 0.75, "y": 0.75 },
+					{ "time": 0.2667, "x": 0.63, "y": 0.63 },
+					{ "time": 0.3333, "x": 0.81, "y": 0.81 },
+					{ "time": 0.4, "x": 0.61, "y": 0.61, "curve": "stepped" },
+					{ "time": 0.9333, "x": 0.61, "y": 0.61 },
+					{ "time": 0.9667 },
+					{ "time": 1, "x": 0.43, "y": 0.43 },
+					{ "time": 1.0667, "x": 0.95, "y": 0.95 },
+					{ "time": 1.1, "x": 0.41, "y": 0.41 },
+					{ "time": 1.1667, "x": 0.75, "y": 0.75 },
+					{ "time": 1.2333, "x": 0.63, "y": 0.63 },
+					{ "time": 1.3, "x": 0.81, "y": 0.81 },
+					{ "time": 1.3667, "x": 0.61, "y": 0.61 },
+					{ "time": 2 }
+				]
+			},
+			"9BG": {
+				"translate": [
+					{ "x": -1216.09 }
+				]
+			},
+			"9DIA1": {
+				"rotate": [
+					{ "angle": -10.78 }
+				],
+				"translate": [
+					{ "x": -4.57, "y": 1.02, "curve": 0.29, "c3": 0.629, "c4": 0.38 },
+					{
+						"time": 0.2667,
+						"x": -1.25,
+						"y": 13.44,
+						"curve": 0.321,
+						"c2": 0.28,
+						"c3": 0.655,
+						"c4": 0.62
+					},
+					{ "time": 0.3667, "x": -1.58, "y": -4.91, "curve": 0.333, "c2": 0.33, "c3": 0.758 },
+					{
+						"time": 0.4667,
+						"x": -1.25,
+						"y": 13.44,
+						"curve": 0.321,
+						"c2": 0.28,
+						"c3": 0.655,
+						"c4": 0.62
+					},
+					{ "time": 0.6, "x": -1.58, "y": -4.91, "curve": 0.333, "c2": 0.33, "c3": 0.758 },
+					{
+						"time": 0.7333,
+						"x": -1.25,
+						"y": 13.44,
+						"curve": 0.321,
+						"c2": 0.28,
+						"c3": 0.655,
+						"c4": 0.62
+					},
+					{ "time": 0.8667, "x": -1.58, "y": -4.91, "curve": 0.333, "c2": 0.33, "c3": 0.758 },
+					{
+						"time": 0.9667,
+						"x": -1.25,
+						"y": 13.44,
+						"curve": 0.321,
+						"c2": 0.28,
+						"c3": 0.655,
+						"c4": 0.62
+					},
+					{ "time": 1.0667, "x": -1.58, "y": -4.91, "curve": 0.333, "c2": 0.33, "c3": 0.758 },
+					{ "time": 2, "x": -4.57, "y": 1.02 }
+				],
+				"scale": [
+					{ "x": 1.2, "y": 1.2 }
+				]
+			},
+			"9dia": {
+				"rotate": [
+					{ "angle": 36.57, "curve": 0.309, "c3": 0.644, "c4": 0.35 },
+					{ "time": 0.1667, "angle": -16.1, "curve": "stepped" },
+					{ "time": 1.0667, "angle": -16.1, "curve": 0.298, "c2": 0.2, "c3": 0.756 },
+					{ "time": 2, "angle": 36.57 }
+				],
+				"translate": [
+					{ "x": -26.88, "y": -23.82, "curve": 0.309, "c3": 0.644, "c4": 0.35 },
+					{ "time": 0.1667, "x": 2.35, "y": -35.79, "curve": 0.283, "c2": 0.14, "c3": 0.754 },
+					{
+						"time": 0.2667,
+						"x": 2.35,
+						"y": -22.44,
+						"curve": 0.314,
+						"c2": 0.23,
+						"c3": 0.649,
+						"c4": 0.57
+					},
+					{ "time": 0.3667, "x": -0.14, "y": -39.29, "curve": 0.313, "c2": 0.26, "c3": 0.757 },
+					{
+						"time": 0.4667,
+						"x": 2.35,
+						"y": -22.44,
+						"curve": 0.314,
+						"c2": 0.23,
+						"c3": 0.649,
+						"c4": 0.57
+					},
+					{ "time": 0.6, "x": -0.14, "y": -39.29, "curve": 0.313, "c2": 0.26, "c3": 0.757 },
+					{
+						"time": 0.7333,
+						"x": 2.35,
+						"y": -22.44,
+						"curve": 0.314,
+						"c2": 0.23,
+						"c3": 0.649,
+						"c4": 0.57
+					},
+					{ "time": 0.8667, "x": -0.14, "y": -39.29, "curve": 0.313, "c2": 0.26, "c3": 0.757 },
+					{
+						"time": 0.9667,
+						"x": 2.35,
+						"y": -22.44,
+						"curve": 0.314,
+						"c2": 0.23,
+						"c3": 0.649,
+						"c4": 0.57
+					},
+					{ "time": 1.0667, "x": -0.14, "y": -39.29, "curve": 0.298, "c2": 0.2, "c3": 0.756 },
+					{ "time": 2, "x": -26.88, "y": -23.82 }
+				],
+				"scale": [
+					{ "x": 1.19, "y": 1.19 }
+				]
+			},
+			"9Ngoc5": {
+				"translate": [
+					{ "x": -16.92, "y": 20.24 }
+				],
+				"scale": [
+					{ "x": 0.56, "y": 0.56 }
+				]
+			},
+			"9Ngoc3": {
+				"translate": [
+					{ "x": 0.24, "y": 5.92 }
+				],
+				"scale": [
+					{ "x": 0.67, "y": 0.67 }
+				]
+			},
+			"9Ngoc2": {
+				"translate": [
+					{ "x": -5.36, "y": -4.11 }
+				],
+				"scale": [
+					{ "x": 0.6, "y": 0.6 }
+				]
+			},
+			"9ngoc1": {
+				"translate": [
+					{ "x": 22.55, "y": -10.24 }
+				],
+				"scale": [
+					{ "x": 0.75, "y": 0.75 }
+				]
+			},
+			"9HOA1": {
+				"scale": [
+					{ "curve": 0.265, "c3": 0.618, "c4": 0.43 },
+					{ "time": 0.6667, "x": 1.16, "y": 1.16, "curve": 0.351, "c2": 0.4, "c3": 0.757 },
+					{ "time": 2 }
+				]
+			},
+			"9HOA2": {
+				"scale": [
+					{ "time": 0.6667, "curve": 0.324, "c2": 0.3, "c3": 0.667, "c4": 0.67 },
+					{ "time": 1.1667, "x": 1.15, "y": 1.15, "curve": 0.381, "c2": 0.54, "c3": 0.744 },
+					{ "time": 2 }
+				]
+			},
+			"9NAME": {
+				"translate": [
+					{ "y": 24.37 }
+				]
+			},
+			"9namxoc": {
+				"translate": [
+					{ "y": 7.58 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.3333, "x": 1.18, "y": 1.18 },
+					{ "time": 0.6667 }
+				]
+			},
+			"9namdia": {
+				"translate": [
+					{ "y": 7.58 }
+				],
+				"scale": [
+					{ "time": 0.6667 },
+					{ "time": 0.8333, "x": 1.23, "y": 1.23 },
+					{ "time": 1.3333 }
+				]
+			}
+		}
+	}
+}
+}

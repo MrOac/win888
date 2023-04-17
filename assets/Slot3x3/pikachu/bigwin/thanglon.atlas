@@ -1,0 +1,167 @@
+
+thanglon.png
+size: 1158,540
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1099, 433
+  size: 46, 46
+  orig: 60, 59
+  offset: 7, 6
+  index: -1
+2
+  rotate: false
+  xy: 1099, 433
+  size: 46, 46
+  orig: 60, 59
+  offset: 7, 6
+  index: -1
+4
+  rotate: false
+  xy: 1099, 433
+  size: 46, 46
+  orig: 60, 59
+  offset: 7, 6
+  index: -1
+5
+  rotate: false
+  xy: 1099, 433
+  size: 46, 46
+  orig: 60, 59
+  offset: 7, 6
+  index: -1
+6
+  rotate: false
+  xy: 1099, 433
+  size: 46, 46
+  orig: 60, 59
+  offset: 7, 6
+  index: -1
+7
+  rotate: false
+  xy: 1099, 433
+  size: 46, 46
+  orig: 60, 59
+  offset: 7, 6
+  index: -1
+8
+  rotate: false
+  xy: 1099, 433
+  size: 46, 46
+  orig: 60, 59
+  offset: 7, 6
+  index: -1
+15
+  rotate: false
+  xy: 912, 81
+  size: 124, 124
+  orig: 133, 130
+  offset: 3, 3
+  index: -1
+17
+  rotate: false
+  xy: 912, 81
+  size: 124, 124
+  orig: 133, 130
+  offset: 3, 3
+  index: -1
+19
+  rotate: false
+  xy: 912, 81
+  size: 124, 124
+  orig: 133, 130
+  offset: 3, 3
+  index: -1
+20
+  rotate: false
+  xy: 912, 81
+  size: 124, 124
+  orig: 133, 130
+  offset: 3, 3
+  index: -1
+16
+  rotate: false
+  xy: 912, 2
+  size: 77, 77
+  orig: 83, 81
+  offset: 2, 2
+  index: -1
+18
+  rotate: false
+  xy: 1038, 14
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1099, 481
+  size: 57, 57
+  orig: 73, 72
+  offset: 8, 7
+  index: -1
+9
+  rotate: false
+  xy: 1038, 103
+  size: 102, 102
+  orig: 115, 122
+  offset: 5, 10
+  index: -1
+10
+  rotate: false
+  xy: 1038, 103
+  size: 102, 102
+  orig: 115, 122
+  offset: 5, 10
+  index: -1
+11
+  rotate: false
+  xy: 1038, 103
+  size: 102, 102
+  orig: 115, 122
+  offset: 5, 10
+  index: -1
+12
+  rotate: false
+  xy: 1038, 103
+  size: 102, 102
+  orig: 115, 122
+  offset: 5, 10
+  index: -1
+13
+  rotate: false
+  xy: 1038, 103
+  size: 102, 102
+  orig: 115, 122
+  offset: 5, 10
+  index: -1
+14
+  rotate: false
+  xy: 1038, 103
+  size: 102, 102
+  orig: 115, 122
+  offset: 5, 10
+  index: -1
+bigwin
+  rotate: true
+  xy: 744, 10
+  size: 528, 166
+  orig: 530, 169
+  offset: 1, 2
+  index: -1
+effect
+  rotate: false
+  xy: 2, 24
+  size: 740, 514
+  orig: 742, 516
+  offset: 1, 1
+  index: -1
+thang_lon
+  rotate: true
+  xy: 912, 207
+  size: 331, 185
+  orig: 653, 185
+  offset: 159, 0
+  index: -1

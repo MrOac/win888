@@ -1,0 +1,48 @@
+
+ani_icon4.png
+size: 112,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AnhSang
+  rotate: true
+  xy: 77, 144
+  size: 36, 26
+  orig: 36, 26
+  offset: 0, 0
+  index: -1
+ThanLo
+  rotate: true
+  xy: 1, 50
+  size: 55, 97
+  orig: 57, 99
+  offset: 1, 1
+  index: -1
+XichPhai
+  rotate: true
+  xy: 66, 8
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+XichTrai
+  rotate: true
+  xy: 1, 1
+  size: 48, 64
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+XoayNuoc
+  rotate: true
+  xy: 1, 106
+  size: 74, 75
+  orig: 76, 77
+  offset: 1, 1
+  index: -1
+bong
+  rotate: true
+  xy: 1, 181
+  size: 100, 107
+  orig: 103, 111
+  offset: 2, 3
+  index: -1

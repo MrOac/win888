@@ -1,0 +1,48 @@
+
+icDiamondWild.png
+size: 168,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bongTimSang
+  rotate: false
+  xy: 2, 121
+  size: 96, 70
+  orig: 107, 79
+  offset: 7, 3
+  index: -1
+bongtim1
+  rotate: false
+  xy: 2, 14
+  size: 52, 43
+  orig: 64, 45
+  offset: 5, 1
+  index: -1
+bongtim2
+  rotate: true
+  xy: 95, 9
+  size: 79, 60
+  orig: 98, 62
+  offset: 8, 1
+  index: -1
+bongtim3
+  rotate: true
+  xy: 100, 90
+  size: 101, 66
+  orig: 124, 68
+  offset: 10, 1
+  index: -1
+bongtim4
+  rotate: true
+  xy: 56, 2
+  size: 55, 31
+  orig: 69, 33
+  offset: 6, 1
+  index: -1
+than
+  rotate: true
+  xy: 2, 59
+  size: 60, 91
+  orig: 62, 93
+  offset: 1, 1
+  index: -1

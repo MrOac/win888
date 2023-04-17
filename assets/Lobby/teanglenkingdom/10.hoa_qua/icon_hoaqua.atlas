@@ -1,0 +1,55 @@
+
+icon_hoaqua.png
+size: 807,529
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+241
+  rotate: false
+  xy: 318, 154
+  size: 229, 373
+  orig: 234, 383
+  offset: 2, 3
+  index: -1
+bui_lan_tinh
+  rotate: false
+  xy: 2, 83
+  size: 314, 444
+  orig: 320, 480
+  offset: 1, 8
+  index: -1
+cauvong
+  rotate: false
+  xy: 549, 186
+  size: 256, 341
+  orig: 256, 387
+  offset: 0, 0
+  index: -1
+qua1
+  rotate: false
+  xy: 318, 2
+  size: 169, 150
+  orig: 170, 150
+  offset: 0, 0
+  index: -1
+qua2
+  rotate: true
+  xy: 489, 4
+  size: 148, 134
+  orig: 153, 134
+  offset: 0, 0
+  index: -1
+toplight
+  rotate: false
+  xy: 625, 86
+  size: 139, 98
+  orig: 139, 99
+  offset: 0, 1
+  index: -1
+txt_hoaqua
+  rotate: false
+  xy: 2, 3
+  size: 186, 78
+  orig: 187, 85
+  offset: 0, 3
+  index: -1

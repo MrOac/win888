@@ -1,0 +1,48 @@
+
+longjinbi.png
+size: 856,1081
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ban
+  rotate: true
+  xy: 799, 823
+  size: 256, 55
+  orig: 256, 55
+  offset: 0, 0
+  index: -1
+fx
+  rotate: false
+  xy: 2, 342
+  size: 795, 737
+  orig: 795, 737
+  offset: 0, 0
+  index: -1
+r
+  rotate: false
+  xy: 2, 22
+  size: 405, 318
+  orig: 405, 318
+  offset: 0, 0
+  index: -1
+s1
+  rotate: true
+  xy: 628, 181
+  size: 159, 226
+  orig: 159, 226
+  offset: 0, 0
+  index: -1
+s2
+  rotate: false
+  xy: 628, 37
+  size: 210, 142
+  orig: 210, 142
+  offset: 0, 0
+  index: -1
+s3
+  rotate: true
+  xy: 409, 2
+  size: 338, 217
+  orig: 338, 217
+  offset: 0, 0
+  index: -1

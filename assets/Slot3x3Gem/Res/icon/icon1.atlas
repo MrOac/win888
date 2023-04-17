@@ -1,0 +1,55 @@
+
+icon1.png
+size: 176,288
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+WILD
+  rotate: true
+  xy: 104, 138
+  size: 147, 54
+  orig: 147, 54
+  offset: 0, 0
+  index: -1
+icDiamond1
+  rotate: false
+  xy: 78, 1
+  size: 50, 56
+  orig: 122, 102
+  offset: 5, 0
+  index: -1
+icDiamond2
+  rotate: false
+  xy: 97, 58
+  size: 77, 79
+  orig: 122, 102
+  offset: 15, 0
+  index: -1
+icDiamond3
+  rotate: false
+  xy: 1, 25
+  size: 76, 67
+  orig: 95, 69
+  offset: 8, 1
+  index: -1
+icDiamond4
+  rotate: true
+  xy: 129, 2
+  size: 55, 41
+  orig: 69, 43
+  offset: 6, 1
+  index: -1
+icDiamond5
+  rotate: false
+  xy: 1, 93
+  size: 95, 94
+  orig: 107, 104
+  offset: 8, 3
+  index: -1
+icDiamondWild
+  rotate: true
+  xy: 1, 188
+  size: 97, 102
+  orig: 122, 102
+  offset: 21, 0
+  index: -1

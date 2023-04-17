@@ -1,0 +1,62 @@
+
+ani_icon3.png
+size: 328,104
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AnhSangDo
+  rotate: false
+  xy: 104, 2
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+AnhSangXanh
+  rotate: true
+  xy: 301, 48
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+DayDai
+  rotate: false
+  xy: 157, 3
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+DayNgan
+  rotate: true
+  xy: 206, 11
+  size: 27, 29
+  orig: 27, 35
+  offset: 0, 6
+  index: -1
+KhoiDac
+  rotate: true
+  xy: 253, 20
+  size: 81, 47
+  orig: 84, 51
+  offset: 2, 3
+  index: -1
+KhoiMix
+  rotate: false
+  xy: 189, 39
+  size: 63, 62
+  orig: 67, 65
+  offset: 2, 2
+  index: -1
+KhoiNhat
+  rotate: true
+  xy: 1, 1
+  size: 100, 102
+  orig: 103, 106
+  offset: 2, 2
+  index: -1
+Lo
+  rotate: true
+  xy: 104, 39
+  size: 62, 84
+  orig: 64, 86
+  offset: 1, 1
+  index: -1
